@@ -318,7 +318,7 @@ div.metaslider .slider-wrapper .nivo-controlNav a {
 
     /* This keeps the slider from spilling out the container */
     max-width: 100%;
-    overflow:hidden;
+    overflow:visible;
 }
 .metaslider .coin-slider .cs-buttons a,
 .metaslider .coin-slider > a {
