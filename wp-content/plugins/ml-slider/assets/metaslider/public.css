@@ -32,7 +32,7 @@ body .metaslider .flexslider .flex-direction-nav li {
 
 /* Avoids overflow when slideshow takes the whole window' width - The fullwidth class needs to be added in the slideshow settings. */
 .metaslider.fullwidth {
-	overflow: visible;
+	overflow: hidden;
 }
 
 .metaslider .caption {
@@ -318,7 +318,7 @@ div.metaslider .slider-wrapper .nivo-controlNav a {
 
     /* This keeps the slider from spilling out the container */
     max-width: 100%;
-    overflow:visible;
+    overflow:hidden;
 }
 .metaslider .coin-slider .cs-buttons a,
 .metaslider .coin-slider > a {
