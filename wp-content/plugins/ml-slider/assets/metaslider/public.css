@@ -32,7 +32,7 @@ body .metaslider .flexslider .flex-direction-nav li {
 
 /* Avoids overflow when slideshow takes the whole window' width - The fullwidth class needs to be added in the slideshow settings. */
 .metaslider.fullwidth {
-	overflow: hidden;
+	overflow: visible;
 }
 
 .metaslider .caption {
