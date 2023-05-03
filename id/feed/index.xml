@@ -9,21 +9,21 @@
 
 <channel>
 	<title>Markas Walet</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/id/feed/" rel="self" type="application/rss+xml" />
+	<link href="">/id</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 May 2023 10:46:50 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+	<lastbuilddate>Wed, 03 May 2023 10:46:50 +0000</lastbuilddate>
+	<language>id</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/04/cropped-Markas_Walet__2_-removebg-preview-32x32.png</url>
 	<title>Markas Walet</title>
-	<link></link>
+	<link href="">/id</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
