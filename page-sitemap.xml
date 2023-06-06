@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-05-31T14:56:01+00:00</lastmod>
+		<lastmod>2023-06-05T06:42:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
 		</image:image>
@@ -59,6 +59,67 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-646@2x.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about-us/</loc>
+		<lastmod>2023-06-05T06:58:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/new-our-founder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/aset_white-removebg-preview-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x-300x107.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x-300x107.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x-300x107.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-872@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-875@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-873@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-874@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/aset_white-removebg-preview-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/new-our-founder-1024x499.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-863@2x-e1685516774773-1024x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-862@2x-e1685518325597-1024x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-861@2x-e1685520558468-1024x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-860@2x-e1685520832107-1024x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-859@2x-e1685521157329-1024x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-858@2x-e1685521306244-1024x1024.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -133,67 +194,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/parfum-removebg-preview.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/about-us/</loc>
-		<lastmod>2023-05-31T15:02:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/new-our-founder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/aset_white-removebg-preview-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x-300x107.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x-300x107.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x-300x107.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-869@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-872@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-875@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-873@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-874@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/aset_white-removebg-preview-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/new-our-founder-1024x499.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-863@2x-e1685516774773-1024x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-862@2x-e1685518325597-1024x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-861@2x-e1685520558468-1024x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-860@2x-e1685520832107-1024x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-859@2x-e1685521157329-1024x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-858@2x-e1685521306244-1024x1024.png</image:loc>
 		</image:image>
 	</url>
 	<url>
