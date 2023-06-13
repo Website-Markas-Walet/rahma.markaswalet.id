@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-05T06:42:18+00:00</lastmod>
+		<lastmod>2023-06-12T05:08:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
 		</image:image>
@@ -62,8 +62,39 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/markaswalet-apps/</loc>
+		<lastmod>2023-06-12T04:58:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-39.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-26.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/apps-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-20.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-49.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/google-play.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/about-us/</loc>
-		<lastmod>2023-06-05T06:58:41+00:00</lastmod>
+		<lastmod>2023-06-08T09:20:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/new-our-founder.png</image:loc>
 		</image:image>
@@ -123,27 +154,27 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/</loc>
-		<lastmod>2023-06-01T05:08:37+00:00</lastmod>
+		<loc>/cultivation-technology/</loc>
+		<lastmod>2023-06-08T09:19:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/suara1-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/suara2-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/suara3-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/parfum-removebg-preview.png</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/markaswalet-apps/</loc>
-		<lastmod>2023-06-01T05:05:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/aset_white-removebg-preview-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/apps-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-20.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-49.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/google-play.png</image:loc>
-		</image:image>
+		<loc>/article/</loc>
+		<lastmod>2023-06-01T05:08:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/swiftlet-house-construction/</loc>
@@ -175,25 +206,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/eropa-map-removebg-preview.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/cultivation-technology/</loc>
-		<lastmod>2023-06-01T00:02:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/suara1-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/suara2-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/suara3-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/parfum-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 	<url>
