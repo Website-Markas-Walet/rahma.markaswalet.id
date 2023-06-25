@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-12T05:08:57+00:00</lastmod>
+		<lastmod>2023-06-13T11:10:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
 		</image:image>
@@ -62,39 +62,52 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/markaswalet-apps/</loc>
-		<lastmod>2023-06-12T04:58:57+00:00</lastmod>
+		<loc>/manufacture-and-export/</loc>
+		<lastmod>2023-06-20T08:50:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/Asset-39.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/06/Asset-7@2x.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/06/Asset-3@2x.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/Asset-26.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/06/Asset-9@2x.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/06/Asset-1@2x.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/apps-removebg-preview.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/06/Asset-5@2x.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-20.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Asset-674@2x.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-49.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Asset-672@2x.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/google-play.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Asset-673@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-724@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-725@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-723@2x.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/article/</loc>
+		<lastmod>2023-06-13T11:18:12+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/about-us/</loc>
-		<lastmod>2023-06-08T09:20:01+00:00</lastmod>
+		<lastmod>2023-06-13T11:06:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/new-our-founder.png</image:loc>
 		</image:image>
@@ -154,6 +167,37 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/markaswalet-apps/</loc>
+		<lastmod>2023-06-12T04:58:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-39.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-26.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/apps-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-20.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-49.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/google-play.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/cultivation-technology/</loc>
 		<lastmod>2023-06-08T09:19:15+00:00</lastmod>
 		<image:image>
@@ -173,39 +217,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/</loc>
-		<lastmod>2023-06-01T05:08:37+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/swiftlet-house-construction/</loc>
 		<lastmod>2023-06-01T00:09:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/manufacture-and-export/</loc>
-		<lastmod>2023-06-01T00:06:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-674@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-672@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-673@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/china-map-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/australia-map-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/eropa-map-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 	<url>
