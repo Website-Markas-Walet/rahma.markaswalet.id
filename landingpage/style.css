@@ -152,6 +152,7 @@ body {
 	background: linear-gradient(180deg, rgba(242, 159, 14, 0.7) 0%, #f29f0e 100%);
 	border: none;
 	margin-top: 10px;
+	cursor: pointer;
 }
 
 /* Membuat elemen lebih responsif di perangkat berukuran kecil */
