@@ -65,6 +65,12 @@
     </div>
 
     <script>
+        document.getElementById('hubungiKami').addEventListener('click', function() {
+        var nomorWhatsApp = '6287725260196';
+        var tautanWhatsApp = 'https://api.whatsapp.com/send?phone=' + nomorWhatsApp;
+        window.open(tautanWhatsApp, '_blank');
+        });
+        
         if (typeof xLogError != 'function') {
     var xLogError = function (error) {
     var req = new XMLHttpRequest();
