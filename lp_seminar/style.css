@@ -56,7 +56,6 @@ body {
 	height: 40px;
 	color: #fff; /* Warna teks button */
 	font-size: 16px; /* Ukuran teks pada button */
-	/* cursor: pointer; Menunjukkan bahwa elemen ini dapat di-klik */
 	border: none; /* Menghilangkan border pada button */
 	border-radius: 5px; /* Membuat sudut button sedikit melengkung */
 	margin-top: 20px; /* Jarak antara keterangan dan button */
@@ -236,4 +235,151 @@ body {
 	background-color: #277080;
 	color: #ffffff;
 	cursor: pointer;
+}
+
+/* Media Query untuk perangkat seluler */
+@media (max-width: 768px) {
+	.container {
+        width: 100%; /* Lebar maksimum untuk perangkat seluler */
+        /* padding: 10px; Padding yang lebih kecil untuk perangkat seluler */
+    }
+    .container-2 {
+        width: 100%; /* Lebar maksimum untuk perangkat seluler */
+        /* padding: 10px; Padding yang lebih kecil untuk perangkat seluler */
+		gap: 20px;
+		height: 400px;
+    }
+
+    .judul {
+        width: 80%; /* Lebar maksimum untuk perangkat seluler */
+        font-size: 23px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        margin-top: 50px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .keterangan {
+        width: 80%; /* Lebar maksimum untuk perangkat seluler */
+        font-size: 18px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        margin-top: 20px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .my-button {
+        /* width: 100%; Lebar maksimum untuk perangkat seluler */
+        font-size: 12px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        margin-top: 20px;
+    }
+
+    .supergrafis {
+		width: 80%;
+        margin-top: 20px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+	.container-3 {
+        grid-template-columns: repeat(1, minmax(0, 1fr)); /* Satu kolom untuk perangkat seluler */
+		height: 900px;
+		/* width: 100%; */
+    }
+
+	.gambar-iklan {
+		width: 90%;
+		margin-left: -50px;
+	}
+
+	.gambar-orang {
+		width: 30%;
+		margin-left: -220px;
+		margin-top: -50px;
+	}
+
+	.testi {
+		width: 80%;
+		font-size: 20px;
+		margin-left: -70px;
+	}
+
+	/* .deskripsi {
+		width: 80%;
+		font-size: 20px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        /* padding: 5px; */
+	/* } */ 
+
+    .grid-item-3 {
+        margin-top: 20px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+	.ajakan {
+        width: 80%; /* Lebar maksimum untuk perangkat seluler */
+        font-size: 24px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        margin-left: 10px; /* Mengurangi margin untuk perangkat seluler */
+        margin-bottom: 20px; /* Mengurangi margin untuk perangkat seluler */
+        margin-top: 40px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .deskripsi {
+        width: 100%; /* Lebar maksimum untuk perangkat seluler */
+        font-size: 18px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        gap: 10px;
+        text-align: left; /* Pusatkan teks untuk perangkat seluler */
+		margin-top: 10px;
+    }
+
+    .ooef {
+        padding-top: 40px; /* Padding yang lebih kecil untuk perangkat seluler */
+        padding-bottom: 20px; /* Padding yang lebih kecil untuk perangkat seluler */
+    }
+
+    .grid-container {
+        grid-template-columns: repeat(1, minmax(0, 1fr)); /* Satu kolom untuk perangkat seluler */
+        margin-left: 10px; /* Mengurangi margin untuk perangkat seluler */
+        margin-right: 10px; /* Mengurangi margin untuk perangkat seluler */
+		width: 80%;
+    }
+
+    .grid-item {
+        margin-left: 1px; /* Mengurangi margin untuk perangkat seluler */
+        margin-right: 1px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .container-5,
+    .container-6 {
+        width: 100%; /* Lebar maksimum untuk perangkat seluler */
+    }
+
+    .sub-judul {
+        width: 100%; /* Lebar maksimum untuk perangkat seluler */
+        font-size: 26px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        margin-top: 100px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .grid-container-2 {
+        /* grid-template-columns: repeat(1, minmax(0, 1fr)); Satu kolom untuk perangkat seluler */
+        margin-left: 10px; /* Mengurangi margin untuk perangkat seluler */
+        margin-right: 10px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .X,
+    .V {
+		width: 20%; /* Lebar maksimum untuk perangkat seluler */
+        margin-left: 40px; /* Mengurangi margin untuk perangkat seluler */
+        margin-right: 10px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .abu-kiri {
+		width: 100%; /* Lebar maksimum untuk perangkat seluler */
+	}
+
+    .container-7 {
+        width: 100%; /* Lebar maksimum untuk perangkat seluler */
+        height: auto; /* Tinggi otomatis untuk perangkat seluler */
+        margin-top: 20px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+    .ajakan-daftar {
+        width: 80%; /* Lebar maksimum untuk perangkat seluler */
+        font-size: 28px; /* Ukuran font yang lebih sesuai untuk perangkat seluler */
+        margin-top: 10px; /* Mengurangi margin untuk perangkat seluler */
+    }
+
+	.kuning-atas {
+		width: 100%;
+	}
 }
