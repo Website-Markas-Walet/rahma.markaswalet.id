@@ -182,9 +182,11 @@
     }
 
     document.getElementById('hubungiKami').addEventListener('click', function() {
-    var nomorWhatsApp = '6287725260196';
-    var tautanWhatsApp = 'https://api.whatsapp.com/send?phone=' + nomorWhatsApp;
-    window.open(tautanWhatsApp, '_blank');
-    });
+      var nomorWhatsApp = '6287725260196';
+      var pesanWhatsApp = encodeURIComponent('Hai Markaswalet, saya ingin tahu lebih banyak tentang seminar!');
+      var tautanWhatsApp = 'https://api.whatsapp.com/send?phone=' + nomorWhatsApp + '&text=' + pesanWhatsApp;
+      window.open(tautanWhatsApp, '_blank');
+});
+
 </script>
 </html>
