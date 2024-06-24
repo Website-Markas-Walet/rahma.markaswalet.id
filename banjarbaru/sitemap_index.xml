@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://markaswalet.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://markaswalet.com/banjarbaru/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://markaswalet.com/post-sitemap.xml</loc>
+		<loc>https://markaswalet.com/banjarbaru/post-sitemap.xml</loc>
 		<lastmod>2023-07-13T04:21:02+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://markaswalet.com/page-sitemap.xml</loc>
+		<loc>https://markaswalet.com/banjarbaru/page-sitemap.xml</loc>
 		<lastmod>2024-06-21T01:51:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://markaswalet.com/category-sitemap.xml</loc>
+		<loc>https://markaswalet.com/banjarbaru/category-sitemap.xml</loc>
 		<lastmod>2023-07-13T04:21:02+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
