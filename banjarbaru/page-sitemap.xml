@@ -2,12 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://markaswalet.com/banjarbaru/</loc>
-		<lastmod>2024-06-21T01:51:24+00:00</lastmod>
+		<lastmod>2024-06-24T07:05:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://markaswalet.com/banjarbaru/wp-content/uploads/2023/05/Asset-41.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://markaswalet.com/banjarbaru/wp-content/uploads/2024/06/1.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://markaswalet.com/banjarbaru/wp-content/uploads/2024/06/Pencucian.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://markaswalet.com/banjarbaru/wp-content/uploads/2024/06/2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://markaswalet.com/banjarbaru/wp-content/uploads/2024/06/3.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://markaswalet.com/banjarbaru/wp-content/uploads/2024/06/IoT-Markaswalet.png</image:loc>
