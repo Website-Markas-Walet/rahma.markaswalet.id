@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Markas Walet Banjarbaru	</title>
-	<atom:link href="//comments/feed/" rel="self" type="application/rss+xml" />
-	<link>//</link>
+	<atom:link href="https://markaswalet.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://markaswalet.com/</link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 06:41:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
