@@ -24050,34 +24050,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-// prepend: true moves MUI styles to the top of the <head>
-
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-TGGZ436');</script>
-	<!-- End Google Tag Manager -->
-
-	<!-- Meta Pixel Code -->
-	<script>
-	!function(f,b,e,v,n,t,s)
-	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];
-	s.parentNode.insertBefore(t,s)}(window, document,'script',
-	'https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '2836662576577682');
-	fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=2836662576577682&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Meta Pixel Code -->
- so they're loaded first.
+// prepend: true moves MUI styles to the top of the <head> so they're loaded first.
 // It allows developers to easily override MUI styles with other styling solutions, like CSS modules.
 
 let cache;
@@ -24103,34 +24076,7 @@ function StyledEngineProvider(props) {
    */
   children: (prop_types__WEBPACK_IMPORTED_MODULE_4___default().node),
   /**
-   * By default, the styles are injected last in the <head>
-
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-TGGZ436');</script>
-	<!-- End Google Tag Manager -->
-
-	<!-- Meta Pixel Code -->
-	<script>
-	!function(f,b,e,v,n,t,s)
-	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];
-	s.parentNode.insertBefore(t,s)}(window, document,'script',
-	'https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '2836662576577682');
-	fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=2836662576577682&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Meta Pixel Code -->
- element of the page.
+   * By default, the styles are injected last in the <head> element of the page.
    * As a result, they gain more specificity than any other style sheet.
    * If you want to override MUI's styles, set this prop.
    */
