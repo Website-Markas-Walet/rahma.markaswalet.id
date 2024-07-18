@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/manfaat-kotoran-burung-walet/</loc>
+		<lastmod>2024-07-18T12:13:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/kotoran-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/kotoran-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/kotoran-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mengenal-burung-walet-untuk-budidaya-efektif/</loc>
+		<lastmod>2024-07-18T11:32:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/DSC02751-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/DSC02745-1024x576.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/partisipasi-peserta-msib-batch-4-pt-lentera-alam-nusantara-memperkenalkan-sarang-walet-ready-to-drink-nestone-melalui-event-pameran-jatim-halal-fest/</loc>
-		<lastmod>2023-06-22T19:14:51+00:00</lastmod>
+		<lastmod>2023-07-13T04:21:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/halal-fest-e1687460909914.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/inovasi-panel-surya-pada-rumah-walet/</loc>
+		<lastmod>2023-07-10T07:14:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/desain-rbw.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

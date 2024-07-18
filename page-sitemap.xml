@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-13T11:10:04+00:00</lastmod>
+		<lastmod>2024-07-17T14:01:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
 		</image:image>
@@ -59,6 +59,67 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-646@2x.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/parfumwalet/</loc>
+		<lastmod>2024-06-10T15:03:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Group-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Group-20.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/supergrafis-putih.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/supergrafis-warna--1024x51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/supergrafis-warna--1024x51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Group-18.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/supergrafis-warna--1024x51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Group-55.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/title-text-3-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/title-text-4-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/perbandingan-parfum-walet-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/TESTIMONI-CUSTOMER-NH3X-SUPER.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/testimoni-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/testimoni-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/testimoni-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/testimoni-4-.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/supergrafis-warna--1024x51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/pricing-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Group-19.png</image:loc>
 		</image:image>
 	</url>
 	<url>

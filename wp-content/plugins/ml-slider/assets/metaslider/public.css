@@ -91,6 +91,11 @@ body .metaslider .flexslider .flex-direction-nav li {
 	display: block;
 }
 
+.metaslider .flex-pauseplay a {
+	height: 30px;
+	width: 30px;
+}
+
 /* Flexslider */
 
 .metaslider .flexslider {
@@ -114,6 +119,15 @@ body .metaslider .flexslider .flex-direction-nav li {
 	bottom: -27px;
     line-height: 11px;
     z-index: 2;
+}
+
+.metaslider-flex.ms-theme-default .flex-next:focus {
+    background: url('/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png') scroll right 0 transparent!important;
+    height: 27px!important;
+}
+.metaslider-flex.ms-theme-default .flex-prev:focus {
+    background: url('/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png') scroll left 0 transparent!important;
+    height: 27px!important;
 }
 
 /** move margin from list items to anchors */
@@ -201,7 +215,7 @@ body .metaslider .flexslider .flex-direction-nav li {
     z-index: 10;
     cursor: pointer;
     text-indent: -9999px;
-    opacity: 0;
+    opacity: 1;
     -webkit-transition: all .3s ease;
        -moz-transition: opacity .25s ease-in-out;
             transition: all .3s ease;
@@ -249,6 +263,30 @@ body .metaslider .flexslider .flex-direction-nav li {
 }
 .metaslider .flexslider .slides > li {
     position: relative;
+}
+.metaslider .flexslider .flex-pauseplay .flex-play,
+.metaslider .flexslider .flex-pauseplay .flex-pause {
+    width: 30px;
+    height: 30px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 27px;
+}
+.metaslider .flexslider .flex-pauseplay a:before {
+    font-size: 16px;
+}
+.metaslider .flexslider .flex-pauseplay .flex-play:focus,
+.metaslider .flexslider .flex-pauseplay .flex-pause:focus {
+    background: #000;
+    color: #fff;
+}
+.metaslider .flexslider .flex-pauseplay .flex-play:before {
+    margin-left: 4px;
+}
+.metaslider .flexslider .flex-pauseplay .flex-pause:before {
+    margin-left: 1px;
 }
 
 /* Responsive Slides */
@@ -326,4 +364,66 @@ div.metaslider .slider-wrapper .nivo-controlNav a {
 }
 .metaslider .coin-slider a[href="javascript:void(0)"] {
 	cursor: default !important;
+}
+
+/* Admin Bar */
+#wpadminbar #wp-admin-bar-ms-main-menu .ab-item #metaslider-main-menu-icon {
+	background-size: 18px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	width: 18px;
+	height: 32px;
+	float: left;
+	margin-right: 5px;
+}
+#wpadminbar #wp-admin-bar-ms-main-menu:hover #metaslider-main-menu-icon{
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBmaWxsPSIjNzJhZWU2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjU1LjggMjU1LjgiIHN0eWxlPSJmaWxsOiM3MmFlZTYiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGQ9Ik0xMjcuOSwwQzU3LjMsMCwwLDU3LjMsMCwxMjcuOWMwLDcwLjYsNTcuMywxMjcuOSwxMjcuOSwxMjcuOWM3MC42LDAsMTI3LjktNTcuMywxMjcuOS0xMjcuOUMyNTUuOCw1Ny4zLDE5OC41LDAsMTI3LjksMHogTTE2LjQsMTc3LjFsOTIuNS0xMTcuNUwxMjQuMiw3OWwtNzcuMyw5OC4xSDE2LjR6IE0xNzAuNSwxNzcuMWwtMzguOS00OS40bDE1LjUtMTkuNmw1NC40LDY5SDE3MC41eiBNMjA4LjUsMTc3LjFMMTQ2LjksOTkgbC02MS42LDc4LjJoLTMxbDkyLjUtMTE3LjVsOTIuNSwxMTcuNUgyMDguNXoiLz48L2c+PC9zdmc+Cg==") !important;
+}
+.ms-edit-frontend {
+	text-decoration: none !important;
+	font-size: 18px;
+}
+.ms-edit-frontend .dashicons.dashicons-external {
+	height: 25px;
+	vertical-align: middle;
+}
+
+#preview-container .ms-edit-frontend{
+    display: none;
+}
+
+
+/* Precognition Theme */
+.ms-theme-precognition .flex-control-nav {
+	display: table !important;
+	width: 100% !important;
+	margin-top: 0 !important;
+}
+.metaslider.ms-theme-precognition .flex-control-nav li {
+	display: table-cell !important;
+	width: auto;
+	text-align: center;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+}
+.metaslider.ms-theme-precognition .flex-control-nav li:last-child {
+	border-right: 1px solid;
+}
+.metaslider.ms-theme-precognition .flex-control-nav li a {
+	text-indent: 0 !important;
+	width: auto !important;
+	display: block !important;
+	height: auto !important;
+	padding: 10px !important;
+	margin: 0 !important;
+}
+@media only screen and (max-width : 767px) {
+    .metaslider.ms-theme-precognition .flex-control-nav li a {
+        text-indent: -9999px !important;
+    }
+}
+@media only screen and (min-width : 768px) {
+    .metaslider.ms-theme-precognition .flex-control-nav li a {
+        text-indent: 0 !important;
+    }
 }
