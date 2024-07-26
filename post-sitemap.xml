@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/tahap-pertumbuhan-dan-usia-burung-walet/</loc>
+		<lastmod>2024-07-26T07:47:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/photo_telur-burung-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/photo_anakan-burung-walet-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-remaja-1024x518.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/photo_burung-walet-dewasa-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-1024x341.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mengenal-ciri-burung-walet/</loc>
+		<lastmod>2024-07-22T14:16:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/DSC02751-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/DSC02745-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/manfaat-kotoran-burung-walet/</loc>
-		<lastmod>2024-07-18T12:13:01+00:00</lastmod>
+		<lastmod>2024-07-22T09:23:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/kotoran-2.png</image:loc>
 		</image:image>
@@ -11,16 +43,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/kotoran-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/mengenal-burung-walet-untuk-budidaya-efektif/</loc>
-		<lastmod>2024-07-18T11:32:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/DSC02751-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/DSC02745-1024x576.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
