@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/fakta-menarik-burung-walet-sarang-putih/</loc>
+		<lastmod>2024-08-01T12:01:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/sarang-walet-putih-gua.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/tahap-pertumbuhan-dan-usia-burung-walet/</loc>
 		<lastmod>2024-07-26T07:47:41+00:00</lastmod>
 		<image:image>
