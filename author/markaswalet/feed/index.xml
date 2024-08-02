@@ -12,7 +12,7 @@
 	<atom:link href="/author/markaswalet/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 12:01:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Aug 2024 18:25:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,7 +45,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.23.0 - 25-07-2024 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>							<figure class="wp-caption">
-										<img decoding="async" src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />											<figcaption class="widget-image-caption wp-caption-text">sumber: ebird.com - Dave Bakewell</figcaption>
+										<img fetchpriority="high" decoding="async" width="822" height="530" src="/wp-content/uploads/2024/07/burung-walet-sarang-putih-1.png" class="attachment-full size-full wp-image-4749" alt="burung walet sarang putih" srcset="/wp-content/uploads/2024/07/burung-walet-sarang-putih-1.png 822w, /wp-content/uploads/2024/07/burung-walet-sarang-putih-1-300x193.png 300w, /wp-content/uploads/2024/07/burung-walet-sarang-putih-1-768x495.png 768w" sizes="(max-width: 822px) 100vw, 822px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: ebird.com - Dave Bakewell</figcaption>
 										</figure>
 							</div>
 				</div>
@@ -65,7 +65,7 @@
 				</div>
 				<div class="elementor-element elementor-element-fd0cda0 elementor-widget elementor-widget-heading" data-id="fd0cda0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">A. Karakter Burung Walet</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Karakter Burung Walet</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8de540d elementor-widget elementor-widget-text-editor" data-id="8de540d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -73,7 +73,10 @@
 				</div>
 				<div class="elementor-element elementor-element-1cd6bcb elementor-widget elementor-widget-image" data-id="1cd6bcb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />													</div>
+										<figure class="wp-caption">
+										<img decoding="async" width="2560" height="1920" src="/wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-scaled.jpg" class="attachment-full size-full wp-image-4750" alt="populasi burung walet di dalam RBW" srcset="/wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-scaled.jpg 2560w, /wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-300x225.jpg 300w, /wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-1024x768.jpg 1024w, /wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-768x576.jpg 768w, /wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-1536x1152.jpg 1536w, /wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: Dokumentasi Markas Walet</figcaption>
+										</figure>
+							</div>
 				</div>
 				<div class="elementor-element elementor-element-9953e87 elementor-widget elementor-widget-text-editor" data-id="9953e87" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -81,7 +84,10 @@
 				</div>
 				<div class="elementor-element elementor-element-016532c elementor-widget elementor-widget-image" data-id="016532c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />													</div>
+										<figure class="wp-caption">
+										<img decoding="async" width="911" height="506" src="/wp-content/uploads/2024/07/burung-walet-bersifat-monogami.png" class="attachment-full size-full wp-image-4751" alt="burung walet bersifat monogami" srcset="/wp-content/uploads/2024/07/burung-walet-bersifat-monogami.png 911w, /wp-content/uploads/2024/07/burung-walet-bersifat-monogami-300x167.png 300w, /wp-content/uploads/2024/07/burung-walet-bersifat-monogami-768x427.png 768w" sizes="(max-width: 911px) 100vw, 911px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: ebird, Amrit Raha</figcaption>
+										</figure>
+							</div>
 				</div>
 				<div class="elementor-element elementor-element-886da0e elementor-widget elementor-widget-text-editor" data-id="886da0e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -89,15 +95,21 @@
 				</div>
 				<div class="elementor-element elementor-element-62697df elementor-widget elementor-widget-image" data-id="62697df" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />													</div>
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="852" height="491" src="/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png" class="attachment-large size-large wp-image-4754" alt="burung walet kembali ke sarang" srcset="/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png 852w, /wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang-300x173.png 300w, /wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang-768x443.png 768w" sizes="(max-width: 852px) 100vw, 852px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: ebird, Ng SH</figcaption>
+										</figure>
+							</div>
 				</div>
 				<div class="elementor-element elementor-element-fa66709 elementor-widget elementor-widget-heading" data-id="fa66709" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">B. Kemampuan Ekolokasi pada Burung Walet Sarang Putih (Aerodramus fuciphagus): Mitos atau Fakta?</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Kemampuan Ekolokasi pada Burung Walet Sarang Putih (Aerodramus fuciphagus): Mitos atau Fakta?</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-c34dedb elementor-widget elementor-widget-image" data-id="c34dedb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img fetchpriority="high" decoding="async" width="825" height="591" src="/wp-content/uploads/2024/07/sarang-walet-putih-gua.png" class="attachment-full size-full wp-image-4663" alt="sarang walet putih gua" srcset="/wp-content/uploads/2024/07/sarang-walet-putih-gua.png 825w, /wp-content/uploads/2024/07/sarang-walet-putih-gua-300x215.png 300w, /wp-content/uploads/2024/07/sarang-walet-putih-gua-768x550.png 768w" sizes="(max-width: 825px) 100vw, 825px" />													</div>
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="825" height="591" src="/wp-content/uploads/2024/07/sarang-walet-putih-gua.png" class="attachment-full size-full wp-image-4663" alt="sarang walet putih gua" srcset="/wp-content/uploads/2024/07/sarang-walet-putih-gua.png 825w, /wp-content/uploads/2024/07/sarang-walet-putih-gua-300x215.png 300w, /wp-content/uploads/2024/07/sarang-walet-putih-gua-768x550.png 768w" sizes="(max-width: 825px) 100vw, 825px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: Dokumentasi Markas Walet</figcaption>
+										</figure>
+							</div>
 				</div>
 				<div class="elementor-element elementor-element-9ee1ca1 elementor-widget elementor-widget-text-editor" data-id="9ee1ca1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -105,7 +117,7 @@
 				</div>
 				<div class="elementor-element elementor-element-763237c elementor-widget elementor-widget-heading" data-id="763237c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">C. Ekolokasi: Mekanisme dan Fungsi</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Ekolokasi: Mekanisme dan Fungsi</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-69bbb65 elementor-widget elementor-widget-text-editor" data-id="69bbb65" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -113,7 +125,7 @@
 				</div>
 				<div class="elementor-element elementor-element-073080e elementor-widget elementor-widget-heading" data-id="073080e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">D. Bukti Ilmiah Kemampuan Ekolokasi pada Walet Sarang Putih</h2>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Bukti Ilmiah Kemampuan Ekolokasi pada Walet Sarang Putih</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-6691be1 elementor-widget elementor-widget-text-editor" data-id="6691be1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -121,7 +133,10 @@
 				</div>
 				<div class="elementor-element elementor-element-877645a elementor-widget elementor-widget-image" data-id="877645a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />													</div>
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="906" height="392" src="/wp-content/uploads/2024/07/tabel-kemampuan-ekolokasi-burung-walet.png" class="attachment-full size-full wp-image-4753" alt="tabel kemampuan ekolokasi burung walet" srcset="/wp-content/uploads/2024/07/tabel-kemampuan-ekolokasi-burung-walet.png 906w, /wp-content/uploads/2024/07/tabel-kemampuan-ekolokasi-burung-walet-300x130.png 300w, /wp-content/uploads/2024/07/tabel-kemampuan-ekolokasi-burung-walet-768x332.png 768w" sizes="(max-width: 906px) 100vw, 906px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: echolocation physiology ansc3301</figcaption>
+										</figure>
+							</div>
 				</div>
 				<div class="elementor-element elementor-element-4bb2d54 elementor-widget elementor-widget-text-editor" data-id="4bb2d54" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -145,11 +160,14 @@
 				</div>
 				<div class="elementor-element elementor-element-9bebea6 elementor-widget elementor-widget-heading" data-id="9bebea6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">E. Perbandingan dengan Kelelawar</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Perbandingan dengan Kelelawar</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-c977eef elementor-widget elementor-widget-image" data-id="c977eef" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />													</div>
+										<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="375" height="375" src="/wp-content/uploads/2024/07/kemampuan-ekolokasi-burung-kelelawar.jpg" class="attachment-full size-full wp-image-4752" alt="kemampuan ekolokasi burung kelelawar" srcset="/wp-content/uploads/2024/07/kemampuan-ekolokasi-burung-kelelawar.jpg 375w, /wp-content/uploads/2024/07/kemampuan-ekolokasi-burung-kelelawar-300x300.jpg 300w, /wp-content/uploads/2024/07/kemampuan-ekolokasi-burung-kelelawar-150x150.jpg 150w" sizes="(max-width: 375px) 100vw, 375px" />											<figcaption class="widget-image-caption wp-caption-text">sumber: Nozomi Niushumi, 2024</figcaption>
+										</figure>
+							</div>
 				</div>
 				<div class="elementor-element elementor-element-8e23a85 elementor-widget elementor-widget-text-editor" data-id="8e23a85" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -157,7 +175,7 @@
 				</div>
 				<div class="elementor-element elementor-element-0b3d5d9 elementor-widget elementor-widget-heading" data-id="0b3d5d9" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">F. Penglihatan dan Navigasi</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Penglihatan dan Navigasi</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-56cf400 elementor-widget elementor-widget-text-editor" data-id="56cf400" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -166,12 +184,12 @@
 				<div class="elementor-element elementor-element-9f542e4 elementor-widget elementor-widget-image" data-id="9f542e4" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://play.google.com/store/apps/details?id=com.xomodo.markaswalet&#038;pcampaignid=web_share" target="_blank" rel="noopener">
-							<img decoding="async" width="3600" height="1200" src="/wp-content/uploads/2024/07/banner.png" class="attachment-full size-full wp-image-4652" alt="" srcset="/wp-content/uploads/2024/07/banner.png 3600w, /wp-content/uploads/2024/07/banner-300x100.png 300w, /wp-content/uploads/2024/07/banner-1024x341.png 1024w, /wp-content/uploads/2024/07/banner-768x256.png 768w, /wp-content/uploads/2024/07/banner-1536x512.png 1536w, /wp-content/uploads/2024/07/banner-2048x683.png 2048w" sizes="(max-width: 3600px) 100vw, 3600px" />								</a>
+							<img loading="lazy" decoding="async" width="3600" height="1200" src="/wp-content/uploads/2024/07/banner.png" class="attachment-full size-full wp-image-4652" alt="" srcset="/wp-content/uploads/2024/07/banner.png 3600w, /wp-content/uploads/2024/07/banner-300x100.png 300w, /wp-content/uploads/2024/07/banner-1024x341.png 1024w, /wp-content/uploads/2024/07/banner-768x256.png 768w, /wp-content/uploads/2024/07/banner-1536x512.png 1536w, /wp-content/uploads/2024/07/banner-2048x683.png 2048w" sizes="(max-width: 3600px) 100vw, 3600px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-85b2b8a elementor-widget elementor-widget-heading" data-id="85b2b8a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">G. Keterkaitan terhadap Perilaku dan Adaptasi</h2>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Keterkaitan terhadap Perilaku dan Adaptasi</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0f97fbc elementor-widget elementor-widget-text-editor" data-id="0f97fbc" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -207,7 +225,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-c4a6e95 elementor-widget elementor-widget-image" data-id="c4a6e95" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" width="2560" height="1440" src="/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg" class="attachment-full size-full wp-image-4638" alt="" srcset="/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg 2560w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-300x169.jpg 300w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-1024x576.jpg 1024w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-768x432.jpg 768w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-1536x864.jpg 1536w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-2048x1152.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />													</div>
+													<img loading="lazy" decoding="async" width="2560" height="1440" src="/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg" class="attachment-full size-full wp-image-4638" alt="" srcset="/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg 2560w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-300x169.jpg 300w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-1024x576.jpg 1024w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-768x432.jpg 768w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-1536x864.jpg 1536w, /wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-2048x1152.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-9df24f5 elementor-widget elementor-widget-text-editor" data-id="9df24f5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
