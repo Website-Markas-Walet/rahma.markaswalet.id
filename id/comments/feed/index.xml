@@ -9,13 +9,13 @@
 	<title>
 	Komentar untuk Markas Walet	</title>
 	<atom:link href="/id/comments/feed/" rel="self" type="application/rss+xml" />
-	<link href="">/id</link>
+	<link>/</link>
 	<description></description>
-	<lastbuilddate>Wed, 03 May 2023 10:46:50 +0000</lastbuilddate>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<lastBuildDate>Tue, 06 Aug 2024 06:13:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 </channel>
 </rss>
