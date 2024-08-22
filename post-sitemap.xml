@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/5-saudara-burung-walet-di-indonesia/</loc>
+		<lastmod>2024-08-21T14:43:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-sriti-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-sriti-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-walet-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-walet-300x220.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-gigas-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-gigas-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-sarang-hitam-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-sarang-hitam-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Promo-17-agustus-SEO.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/aneka-ragam-spesies-burung-walet/</loc>
+		<lastmod>2024-08-21T14:41:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-fuciphagus-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Collocalia-linchi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-fuciphagus-Walet-Sarang-Putih.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-maximus-Walet-Sarang-Hitam.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-germani-Walet-Germain-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Promo-17-agustus-SEO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Apus-acuticauda.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/keanekaragaman-dan-adaptasi-walet/</loc>
+		<lastmod>2024-08-21T13:02:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Hirundapus-cochinchinensis.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Collocalia-esculenta.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Apus-Caffer.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-Fuciphagus-Walet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Promo-17-agustus-SEO.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/kebiasaan-burung-walet/</loc>
 		<lastmod>2024-08-16T06:52:44+00:00</lastmod>
 		<image:image>
@@ -26,28 +110,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/peneliti-sedang-memantau-RBW.jpg-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/keanekaragaman-dan-adaptasi-walet/</loc>
-		<lastmod>2024-08-16T06:49:33+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Hirundapus-cochinchinensis.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Collocalia-esculenta.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Apus-Caffer.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aerodramus-Fuciphagus-Walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Promo-17-agustus-SEO.png</image:loc>
 		</image:image>
 	</url>
 	<url>
