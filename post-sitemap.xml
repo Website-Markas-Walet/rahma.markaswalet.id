@@ -2,40 +2,82 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/tips-memilih-lokasi-rumah-burung-walet/</loc>
-		<lastmod>2024-08-31T06:19:58+00:00</lastmod>
+		<lastmod>2024-08-31T15:51:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-3-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pemutaran-Suara-Walet-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/pengamatan-populasi-burung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-saat-senja.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pengamatan-sumber-pakan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pengamatan-sumber-pakan-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/area-padat-kompetitor.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pemutaran-Suara-Walet-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-2-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/persetujuan-perwakilan-warga-terhadap-RBW.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/RBW-area-jauh-pemukiman.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/lokasi-ideal-penting-untuk-budidaya-walet/</loc>
-		<lastmod>2024-08-31T05:47:40+00:00</lastmod>
+		<lastmod>2024-08-31T15:44:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-hutan.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/burung-walet-berburu-makanan-di-sekitar-perairan.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-2-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-sawah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-sawit.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pinggir-laut.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pegunungan.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-keramaian.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-dekat-tempat-ibadah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pasar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-industri.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pinggir-jalan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-tengah-kota.png</image:loc>
 		</image:image>
 	</url>
 	<url>
