@@ -62,6 +62,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/article/</loc>
+		<lastmod>2024-08-31T06:53:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/premium-birdnest-product/</loc>
 		<lastmod>2024-08-13T18:12:02+00:00</lastmod>
 		<image:image>
@@ -201,10 +205,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/Asset-723@2x.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/article/</loc>
-		<lastmod>2023-06-13T11:18:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/markaswalet-apps/</loc>
