@@ -1,6 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/7-tipe-rumah-burung-walet/</loc>
+		<lastmod>2024-09-20T08:05:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-menggunakan-bangunan-bekas-ruko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-atas-ruko-aktif.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Rumah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-diatas-Rumah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Gudang-Sebelum-DIrenovasi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Diatas-Gudang.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Pembangunan-RBW-dari-Nol.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/kenali-jenis-tanah-untuk-budidaya-walet/</loc>
+		<lastmod>2024-09-20T08:02:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-5-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-pada-tanah-gambut.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-terjal-dan-tebing.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-tanah-berair-jenuh.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-pantai.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-pinggir-sungai.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-tanah-keras.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-tanah-tidak-datar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ikh-dan-nkv-untuk-kualitas-sarang-walet/</loc>
+		<lastmod>2024-09-20T07:55:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-Gedung-Standart-IKH.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/sertifikasi-NKV.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Sosialisai-Standarisasi-RBW-Bersama-Balai-Karantina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/maksimalkan-rasio-lahan-rumah-walet/</loc>
+		<lastmod>2024-09-20T06:51:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Simulasi-KDB-RBW-Menunjukkan-angka-0.53-Terhadap-Lahan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/5-saudara-burung-walet-di-indonesia/</loc>
 		<lastmod>2024-09-12T10:30:36+00:00</lastmod>
 		<image:image>
@@ -110,19 +204,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/peneliti-sedang-memantau-RBW.jpg-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/maksimalkan-rasio-lahan-rumah-walet/</loc>
-		<lastmod>2024-09-12T07:35:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Simulasi-KDB-RBW-Menunjukkan-angka-0.53-Terhadap-Lahan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
 		</image:image>
 	</url>
 	<url>
