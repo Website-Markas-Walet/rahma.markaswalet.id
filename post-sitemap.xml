@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/penanganan-tepat-membasmi-hama-pada-rumah-burung-walet/</loc>
+		<lastmod>2024-10-14T08:36:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Sriti-Hama-Berbahaya-untuk-Rumah-Walet-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Penanganan-Tepat-Membasi-Hama-pada-Rumah-Burung-Walet-1-300x169-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/prospek-menjanjikan-bisnis-sarang-walet/</loc>
+		<lastmod>2024-10-14T08:34:45+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/article/lantai-genap-bangun-rumah-walet/</loc>
-		<lastmod>2024-10-08T05:51:10+00:00</lastmod>
+		<lastmod>2024-10-13T15:34:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
 		</image:image>
@@ -1291,10 +1305,6 @@
 		<lastmod>2023-05-14T15:46:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/article/prospek-menjajikan-bisnis-sarang-walet/</loc>
-		<lastmod>2023-05-14T15:43:19+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/article/mengenal-sejarah-sarang-burung-walet/</loc>
 		<lastmod>2023-05-14T15:38:38+00:00</lastmod>
 	</url>
@@ -1394,16 +1404,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Rumah-Walet-dari-GRC-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/penanganan-tepat-membasi-hama-pada-rumah-burung-walet/</loc>
-		<lastmod>2023-05-12T05:26:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sriti-Hama-Berbahaya-untuk-Rumah-Walet-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Penanganan-Tepat-Membasi-Hama-pada-Rumah-Burung-Walet-1-300x169-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
