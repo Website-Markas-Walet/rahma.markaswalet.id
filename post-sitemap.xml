@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
+		<lastmod>2024-10-21T05:06:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
+		<lastmod>2024-10-21T05:03:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-di-inarie-expo-2024-dengan-brin/</loc>
+		<lastmod>2024-10-21T05:02:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pengunjung-di-booth-Markaswalet-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/penanganan-tepat-membasmi-hama-pada-rumah-burung-walet/</loc>
 		<lastmod>2024-10-14T08:36:12+00:00</lastmod>
 		<image:image>
