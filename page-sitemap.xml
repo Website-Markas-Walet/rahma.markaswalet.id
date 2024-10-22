@@ -62,6 +62,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/article/</loc>
+		<lastmod>2024-10-22T10:06:26+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/premium-birdnest-product/</loc>
 		<lastmod>2024-10-13T15:36:20+00:00</lastmod>
 		<image:image>
@@ -161,10 +165,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-858@2x-e1685521306244-1024x1024.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/article/</loc>
-		<lastmod>2024-09-12T12:17:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/swiftlet-house-construction/</loc>

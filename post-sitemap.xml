@@ -1,88 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
-		<lastmod>2024-10-21T05:06:29+00:00</lastmod>
+		<loc>/article/7-tipe-rumah-burung-walet/</loc>
+		<lastmod>2024-10-22T10:45:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-menggunakan-bangunan-bekas-ruko.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
-		<lastmod>2024-10-21T05:03:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-atas-ruko-aktif.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Rumah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-diatas-Rumah.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/article/markaswalet-di-inarie-expo-2024-dengan-brin/</loc>
-		<lastmod>2024-10-21T05:02:27+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Inarie-Expo-2024.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Gudang-Sebelum-DIrenovasi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pengunjung-di-booth-Markaswalet-Inarie-Expo-2024.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Diatas-Gudang.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-Inarie-Expo-2024.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Pembangunan-RBW-dari-Nol.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/penanganan-tepat-membasmi-hama-pada-rumah-burung-walet/</loc>
-		<lastmod>2024-10-14T08:36:12+00:00</lastmod>
+		<loc>/article/pilih-material-bangunan-rumah-walet/</loc>
+		<lastmod>2024-10-22T10:35:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sriti-Hama-Berbahaya-untuk-Rumah-Walet-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-8-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Penanganan-Tepat-Membasi-Hama-pada-Rumah-Burung-Walet-1-300x169-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/prospek-menjanjikan-bisnis-sarang-walet/</loc>
-		<lastmod>2024-10-14T08:34:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/article/lantai-genap-bangun-rumah-walet/</loc>
-		<lastmod>2024-10-13T15:34:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-full-beton.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Rasionalisasi-pelantaian-ideal-untuk-rumah-burung-walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-Baja.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Lantai-papan-kayu-mudah-dalam-pembongkaran.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bawah-Beton-dan-Atas-Konstruksi-Kayu.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Penghematan-penggunaan-bekesting-pada-rumah-burung-walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kolaborasi-markaswalet-dan-dpkh-kaltim/</loc>
-		<lastmod>2024-10-03T05:21:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Peserta-pelatihan-budidaya-walet-DPKH-Kaltim.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Markaswalet-oleh-Maulana-Satria-Aji-dan-Pelaksana-Harian-Kepala-DPKH-Kaltim-ibu-drh.-Dyah-Anggraini-M.Si_-scaled.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Full-Kayu.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
@@ -90,7 +55,7 @@
 	</url>
 	<url>
 		<loc>/article/alasan-rbw-didesain-persegi-panjang/</loc>
-		<lastmod>2024-10-02T02:36:10+00:00</lastmod>
+		<lastmod>2024-10-22T10:24:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
 		</image:image>
@@ -136,7 +101,7 @@
 	</url>
 	<url>
 		<loc>/article/cari-tahu-ketinggian-ideal-rumah-walet/</loc>
-		<lastmod>2024-10-02T02:34:52+00:00</lastmod>
+		<lastmod>2024-10-22T10:17:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
 		</image:image>
@@ -154,57 +119,170 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/pilih-material-bangunan-rumah-walet/</loc>
-		<lastmod>2024-09-21T12:58:59+00:00</lastmod>
+		<loc>/article/kolaborasi-markaswalet-dan-dpkh-kaltim/</loc>
+		<lastmod>2024-10-22T10:02:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-8-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-pelatihan-budidaya-walet-DPKH-Kaltim.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-full-beton.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-Baja.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Bawah-Beton-dan-Atas-Konstruksi-Kayu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Full-Kayu.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Markaswalet-oleh-Maulana-Satria-Aji-dan-Pelaksana-Harian-Kepala-DPKH-Kaltim-ibu-drh.-Dyah-Anggraini-M.Si_-scaled.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/7-tipe-rumah-burung-walet/</loc>
-		<lastmod>2024-09-20T08:05:30+00:00</lastmod>
+		<loc>/article/lantai-genap-bangun-rumah-walet/</loc>
+		<lastmod>2024-10-22T10:00:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-menggunakan-bangunan-bekas-ruko.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Rasionalisasi-pelantaian-ideal-untuk-rumah-burung-walet.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-atas-ruko-aktif.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Lantai-papan-kayu-mudah-dalam-pembongkaran.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Rumah.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-diatas-Rumah.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Penghematan-penggunaan-bekesting-pada-rumah-burung-walet.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
+		<lastmod>2024-10-22T09:58:29+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Gudang-Sebelum-DIrenovasi.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Diatas-Gudang.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Pembangunan-RBW-dari-Nol.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
+		<lastmod>2024-10-22T09:56:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-di-inari-expo-2024-dengan-brin/</loc>
+		<lastmod>2024-10-22T09:52:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pengunjung-di-booth-Markaswalet-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/tinggi-lantai-2-meter-budidaya-walet/</loc>
+		<lastmod>2024-10-22T09:46:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Gambaran-Tinggi-Pelantaian-Maksimal-2-Meter.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Ketinggian-yang-berlebihan-berisiko-Dalam-Perbaikan-Maupun-Saat-Panen.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Kemudahan-dalam-Perbaikan-Tanpa-Pijakan-Tambahan-atau-Tangga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Risiko-Ketinggian-Yang-Berlebihan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Ketinggian-Maksimal-2-Meter-Menyesuaikan-Ketinggian-Rata-Rata-Penduduk-Indonesia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Burung-Walet-Nyaman-Ketinggian-Lantai-2-Meter.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/material-lantai-rbw-kayu-dan-beton/</loc>
+		<lastmod>2024-10-22T09:42:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pelantaian-Menggunakan-Papan-Kayu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pelantaian-Menggunakan-Beton.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Kombinasi-Pelantaian-Kayu-dan-Beton.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Rancangan-Desain-RBW-Oleh-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/menara-untuk-rumah-burung-walet/</loc>
+		<lastmod>2024-10-22T09:28:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Menara-Pada-Rumah-Burung-Walet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Menara-Untuk-Menghindari-Halangan-Eksternal.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/RBW-Yang-Tidak-Memerlukan-Menara.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Ukuran-Menara-Yang-Proporsional.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Menara-Wajib-Menggunakan-Struktur-Yang-Kokoh.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/penanganan-tepat-membasmi-hama-pada-rumah-burung-walet/</loc>
+		<lastmod>2024-10-14T08:36:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Sriti-Hama-Berbahaya-untuk-Rumah-Walet-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Penanganan-Tepat-Membasi-Hama-pada-Rumah-Burung-Walet-1-300x169-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/prospek-menjanjikan-bisnis-sarang-walet/</loc>
+		<lastmod>2024-10-14T08:34:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/article/kenali-jenis-tanah-untuk-budidaya-walet/</loc>
