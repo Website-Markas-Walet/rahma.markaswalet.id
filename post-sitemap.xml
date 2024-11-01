@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/article/mendorong-kewirausahaan-melalui-business-competition-2024/</loc>
-		<lastmod>2024-11-01T09:09:55+00:00</lastmod>
+		<loc>/article/innovfest-2024-markaswalet-di-singapore-expo/</loc>
+		<lastmod>2024-11-01T09:51:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-Pak-Sandiaga-Uno.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-4.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-3-e1730361133900.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-1-e1730361082157.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
@@ -15,9 +18,12 @@
 	</url>
 	<url>
 		<loc>/article/ciputra-venture-brin-markaswalet-teken-mou/</loc>
-		<lastmod>2024-11-01T08:59:56+00:00</lastmod>
+		<lastmod>2024-11-01T09:50:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Markaswalet-Ciputra-Venture-BRIN.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Tandatangan-MoU.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Foto-dengan-MoU.jpeg</image:loc>
@@ -27,13 +33,16 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/innovfest-2024-markaswalet-di-singapore-expo/</loc>
-		<lastmod>2024-10-31T08:02:25+00:00</lastmod>
+		<loc>/article/mendorong-kewirausahaan-melalui-business-competition-2024/</loc>
+		<lastmod>2024-11-01T09:49:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-Pak-Sandiaga-Uno.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-1-e1730361082157.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-4.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
