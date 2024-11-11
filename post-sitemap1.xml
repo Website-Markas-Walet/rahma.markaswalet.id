@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/rekomendasi-ventilasi-rbw/</loc>
+		<lastmod>2024-11-11T05:19:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-pada-Rumah-Burung-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-Tepat-di-Atas-Kolam-Air.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-2-Installasi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Perpindahan-Udara-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-Alami-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penggunaan-Ventilasi-Mekanik-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-pada-Void-Tidak-Diperlukan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Jaring-Ventilasi-Pencegah-Hama.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penambahan-Pipa-menggunakan-Elbow-Menghadap-Bawah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-3-Renivasi-Alih-fungsi.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/tinggi-lantai-2-meter-budidaya-walet/</loc>
 		<lastmod>2024-11-08T09:37:14+00:00</lastmod>
 		<image:image>
@@ -2009,19 +2046,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
-		<lastmod>2024-10-30T02:51:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
