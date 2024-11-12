@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/keamanan-rbw-bikin-panen-melimpah/</loc>
+		<lastmod>2024-11-12T06:29:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Kawat-Berduri-Untuk-Keamanan-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penambahan-Baja-Tebal-Segai-Preventif-Pembobolan-Maling.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penambahan-Pintu-Ganda-Sebagai-Keamanan-Tambahan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-4-Layanan-Eksklusif.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/CCTV-Sebagai-Pemantau-Aktifitas-Walet-dan-Monitoring.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penerangan-Tambahan-Pada-Bagian-Luar-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penjagaan-RBW-dan-Akses-Terbatas-Diberlakukan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/rekomendasi-ventilasi-rbw/</loc>
 		<lastmod>2024-11-11T05:19:00+00:00</lastmod>
 		<image:image>
@@ -2033,19 +2064,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Penghematan-penggunaan-bekesting-pada-rumah-burung-walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
-		<lastmod>2024-10-30T02:51:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
