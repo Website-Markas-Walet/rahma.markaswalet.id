@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/tweeter-di-lmb-pengaruh-buat-walet/</loc>
+		<lastmod>2024-11-14T07:56:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Desain-penempatan-tweter-magnet-pada-LMB-siku-tampak-depan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Desain-penempatan-tweter-magnet-pada-LMB-1-sisi-tampak-depan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/desain-penempatan-tweter-magnet-pada-LMB-tampak-depan-Gambar-Atas-Adalah-Contoh-Penempatan-LMB-yang-benar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-4-Layanan-Eksklusif.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Arah-terbaik-LMB.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/LMB-tinggi-menyulitkan-burung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Hambatan-di-depan-LMB.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/keamanan-rbw-bikin-panen-melimpah/</loc>
 		<lastmod>2024-11-12T06:29:28+00:00</lastmod>
 		<image:image>
@@ -2045,25 +2076,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Markaswalet-oleh-Maulana-Satria-Aji-dan-Pelaksana-Harian-Kepala-DPKH-Kaltim-ibu-drh.-Dyah-Anggraini-M.Si_-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/lantai-genap-bangun-rumah-walet/</loc>
-		<lastmod>2024-10-30T02:52:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Rasionalisasi-pelantaian-ideal-untuk-rumah-burung-walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Lantai-papan-kayu-mudah-dalam-pembongkaran.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Penghematan-penggunaan-bekesting-pada-rumah-burung-walet.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
