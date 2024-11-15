@@ -16603,7 +16603,7 @@ var URL = /*#__PURE__*/function (_BaseMultiple) {
         positionBase = elementorCommon.config.isRTL ? 'right' : 'left';
       var last, cache;
 
-      // Based on /wp-includes/js/tinymce/plugins/wplink/plugin.js.
+      // Based on https://markaswalet.com/information-center/wp-includes/js/tinymce/plugins/wplink/plugin.js.
       $mainInput.autocomplete({
         source: function source(request, response) {
           if (!_this.options.model.attributes.autocomplete) {
