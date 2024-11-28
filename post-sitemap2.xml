@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/alasan-rbw-didesain-persegi-panjang/</loc>
+		<lastmod>2024-10-30T02:52:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Rata-rata-RBW-berbentuk-Persegi-Panjang.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/interior-RBW-Persegi-Panjang.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x8-1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x10-1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x12-1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x14-1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-8x12-1-300x225.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-8x14-1-300x225.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-8x18-1-300x169.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-12x16-1-300x169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-12x20-1-300x169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-Kolom-atau-Tiang-dengan-antar-jarak-4-meter.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/cari-tahu-ketinggian-ideal-rumah-walet/</loc>
+		<lastmod>2024-10-30T02:52:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-menjulang-tinggi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-area-persawahan-dengan-ketinggian-10-meter.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-lebih-tinggi-dari-vegetasi-sekitar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/kolaborasi-markaswalet-dan-dpkh-kaltim/</loc>
 		<lastmod>2024-10-30T02:52:09+00:00</lastmod>
 		<image:image>
