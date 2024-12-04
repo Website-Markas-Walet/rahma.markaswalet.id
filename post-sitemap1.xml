@@ -1,247 +1,660 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/article/markaswalet-di-innovfest-suzhou-2024/</loc>
-		<lastmod>2024-12-04T06:11:08+00:00</lastmod>
+		<loc>/article/manfaat-kotoran-burung-walet/</loc>
+		<lastmod>2024-12-04T08:29:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/pasangan-burung-walet-1024x675.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-2-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/kotoran-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-3-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/kotoran-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/tips-pencahayaan-rumah-burung-walet/</loc>
-		<lastmod>2024-12-04T05:50:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/RBW-7-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ruang-Inap-yang-Gelap-Pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/LMB-Pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Lantai-Hitam-Dapat-Menyerap-Cahaya.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Sekat-Gelap-Dapat-Menyerap-Cahaya.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Distribusi-Cahaya-Pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/kotoran-3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/waspada-hama-di-rbw/</loc>
-		<lastmod>2024-11-28T09:21:30+00:00</lastmod>
+		<loc>/article/mengenal-ciri-burung-walet/</loc>
+		<lastmod>2024-12-04T08:28:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/DSC02751-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/DSC02745-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/tahap-pertumbuhan-dan-usia-burung-walet/</loc>
+		<lastmod>2024-12-04T08:28:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/photo_telur-burung-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/photo_anakan-burung-walet-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-remaja-1024x518.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/photo_burung-walet-dewasa-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet-1024x341.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/fakta-menarik-burung-walet-sarang-putih/</loc>
+		<lastmod>2024-12-04T08:28:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-sarang-putih-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-bersifat-monogami.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/sarang-walet-putih-gua.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/tabel-kemampuan-ekolokasi-burung-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/kemampuan-ekolokasi-burung-kelelawar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-di-dalam-gua-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/kebiasaan-burung-walet/</loc>
+		<lastmod>2024-12-04T08:27:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-sarang-putih-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-berburu-serangga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/anakan-burung-walet-di-dalam-sarang.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/koloni-burung-walet-migrasi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pasangan-burung-walet-1024x675.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-kembali-ke-RBW.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/peneliti-sedang-memantau-RBW.jpg-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/keanekaragaman-dan-adaptasi-walet/</loc>
+		<lastmod>2024-12-04T08:27:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Hirundapus-cochinchinensis.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Collocalia-esculenta.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Apus-Caffer.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-Fuciphagus-Walet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/potensi-sarang-walet-di-indonesia/</loc>
+		<lastmod>2024-12-04T08:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Sarang-walet-putih-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Supply-sarang-walet-dari-Indonesia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Perkembangan-eksport-sarang-walet-Indonesia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Teknologi-dalam-budidaya-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/28x-Seminar-edukasi-oleh-Markaswalet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/cara-burung-walet-membuat-sarang-dari-air-liur/</loc>
+		<lastmod>2024-12-04T08:21:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-putih-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-di-tempat-gelap.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/produksi-air-liur-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/anakan-burung-walet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-burung-walet-baru.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-putih-2-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/5-saudara-burung-walet-di-indonesia/</loc>
+		<lastmod>2024-12-04T08:21:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-sriti-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-sriti-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-walet-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-walet-300x220.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-gigas-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-gigas-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-sarang-hitam-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-sarang-hitam-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/aneka-ragam-spesies-burung-walet/</loc>
+		<lastmod>2024-12-04T08:21:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-fuciphagus-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Collocalia-linchi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-fuciphagus-Walet-Sarang-Putih.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-maximus-Walet-Sarang-Hitam.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aerodramus-germani-Walet-Germain-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Apus-acuticauda.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/risiko-dan-tantangan-dalam-budidaya-walet/</loc>
+		<lastmod>2024-12-04T08:20:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cara-ternak-walet-rumahan.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/jual-beli-sarang-walet-di-tiongkok.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cctv.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/lokasi-ideal-penting-untuk-budidaya-walet/</loc>
+		<lastmod>2024-12-04T08:17:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-hutan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-berburu-makanan-di-sekitar-perairan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-sawah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-sawit.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pinggir-laut.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pegunungan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-keramaian.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-dekat-tempat-ibadah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pasar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-industri.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pinggir-jalan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-tengah-kota.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/tips-memilih-lokasi-rumah-burung-walet/</loc>
+		<lastmod>2024-12-04T08:17:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pengamatan-populasi-burung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/burung-walet-saat-senja.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pengamatan-sumber-pakan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pengamatan-sumber-pakan-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/area-padat-kompetitor.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/persetujuan-perwakilan-warga-terhadap-RBW.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/RBW-area-jauh-pemukiman.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/risiko-lingkungan-yang-mengancam-rbw-baru/</loc>
+		<lastmod>2024-12-04T08:17:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penyakit-Salmonella-Pada-Burung.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Instalasi-di-1-Layanan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/akses-menuju-RBW.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/perkembangan-demografi-di-sekitar-RBW.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/cara-ampuh-cegah-hama-di-rbw/</loc>
-		<lastmod>2024-11-28T08:21:34+00:00</lastmod>
+		<loc>/article/studi-kelayakan-rbw-dengan-alat-bantu/</loc>
+		<lastmod>2024-12-04T08:16:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-5-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-2-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Tikus-pada-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/alat-pemanggil-burung-walet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Kecoa-didalam-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/alat-termogun-suhu.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Semut-pada-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/kamera-sebagai-dokumentasi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Tokek-pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Kelelawar-didalam-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Burung-Hantu.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Membersihkan-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Kolam-Mini-disekitar-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Inspeksi-Rutin-pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Barang-Barang-Berserakan-Didalam-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Instalasi-di-1-Layanan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/budidaya-walet-dengan-ruang-audio/</loc>
-		<lastmod>2024-11-15T07:26:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ruang-Audio-Pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ruang-Transit.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ruang-Audio-Berperan-Sebagai-Gudang.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Pendingin-Pada-Ruang-Audio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ruang-Audio-Berpotensi-Bising-Saat-Perbaikan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ukuran-Ruang-Audio-pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Keamanan-Untuk-Ruang-Audio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penataan-Perangkat-Elektronik-Pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Pelatihan-Pemantauan-RBW-pada-Seminar-Markaswalet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/tweeter-di-lmb-pengaruh-buat-walet/</loc>
-		<lastmod>2024-11-14T07:56:44+00:00</lastmod>
+		<loc>/article/aturan-garis-sempadan-rumah-walet/</loc>
+		<lastmod>2024-12-04T08:15:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Desain-penempatan-tweter-magnet-pada-LMB-siku-tampak-depan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/simulasi-garis-sempadan-pada-RBW.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Desain-penempatan-tweter-magnet-pada-LMB-1-sisi-tampak-depan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Simulasi-Garis-Sempadan-pada-RBW-tepi-jalan.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/desain-penempatan-tweter-magnet-pada-LMB-tampak-depan-Gambar-Atas-Adalah-Contoh-Penempatan-LMB-yang-benar.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Arah-terbaik-LMB.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/LMB-tinggi-menyulitkan-burung.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Hambatan-di-depan-LMB.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Simulasi-Garis-Sempadan-pada-RBW-tepi-sungai.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/keamanan-rbw-bikin-panen-melimpah/</loc>
-		<lastmod>2024-11-12T06:29:28+00:00</lastmod>
+		<loc>/article/maksimalkan-rasio-lahan-rumah-walet/</loc>
+		<lastmod>2024-12-04T08:13:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Kawat-Berduri-Untuk-Keamanan-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Simulasi-KDB-RBW-Menunjukkan-angka-0.53-Terhadap-Lahan.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penambahan-Baja-Tebal-Segai-Preventif-Pembobolan-Maling.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penambahan-Pintu-Ganda-Sebagai-Keamanan-Tambahan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/CCTV-Sebagai-Pemantau-Aktifitas-Walet-dan-Monitoring.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penerangan-Tambahan-Pada-Bagian-Luar-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penjagaan-RBW-dan-Akses-Terbatas-Diberlakukan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/rekomendasi-ventilasi-rbw/</loc>
-		<lastmod>2024-11-11T05:19:00+00:00</lastmod>
+		<loc>/article/kenali-jenis-tanah-untuk-budidaya-walet/</loc>
+		<lastmod>2024-12-04T08:13:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-5-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-pada-tanah-gambut.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-terjal-dan-tebing.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-tanah-berair-jenuh.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-pantai.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-pinggir-sungai.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-tanah-keras.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-tanah-tidak-datar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/ikh-dan-nkv-untuk-kualitas-sarang-walet/</loc>
+		<lastmod>2024-12-04T08:12:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-Gedung-Standart-IKH.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/sertifikasi-NKV.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Sosialisai-Standarisasi-RBW-Bersama-Balai-Karantina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/7-tipe-rumah-burung-walet/</loc>
+		<lastmod>2024-12-04T08:12:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-menggunakan-bangunan-bekas-ruko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-di-atas-ruko-aktif.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Rumah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-diatas-Rumah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Gudang-Sebelum-DIrenovasi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Diatas-Gudang.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Pembangunan-RBW-dari-Nol.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/pilih-material-bangunan-rumah-walet/</loc>
+		<lastmod>2024-12-04T08:12:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-8-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-full-beton.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-Baja.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Bawah-Beton-dan-Atas-Konstruksi-Kayu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-Full-Kayu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/alasan-rbw-didesain-persegi-panjang/</loc>
+		<lastmod>2024-12-04T08:09:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ventilasi-pada-Rumah-Burung-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Rata-rata-RBW-berbentuk-Persegi-Panjang.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ventilasi-Tepat-di-Atas-Kolam-Air.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/interior-RBW-Persegi-Panjang.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Instalasi-di-1-Layanan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x8-1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Perpindahan-Udara-Pada-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x10-1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ventilasi-Alami-pada-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x12-1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penggunaan-Ventilasi-Mekanik-pada-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-4x14-1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ventilasi-pada-Void-Tidak-Diperlukan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-8x12-1-300x225.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Jaring-Ventilasi-Pencegah-Hama.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-8x14-1-300x225.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Penambahan-Pipa-menggunakan-Elbow-Menghadap-Bawah.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-8x18-1-300x169.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-12x16-1-300x169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-RBW-12x20-1-300x169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Contoh-Kolom-atau-Tiang-dengan-antar-jarak-4-meter.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/cari-tahu-ketinggian-ideal-rumah-walet/</loc>
+		<lastmod>2024-12-04T08:09:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-menjulang-tinggi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-area-persawahan-dengan-ketinggian-10-meter.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-lebih-tinggi-dari-vegetasi-sekitar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/kolaborasi-markaswalet-dan-dpkh-kaltim/</loc>
+		<lastmod>2024-12-04T08:09:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-pelatihan-budidaya-walet-DPKH-Kaltim.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Markaswalet-oleh-Maulana-Satria-Aji-dan-Pelaksana-Harian-Kepala-DPKH-Kaltim-ibu-drh.-Dyah-Anggraini-M.Si_-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/lantai-genap-bangun-rumah-walet/</loc>
+		<lastmod>2024-12-04T08:08:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Rasionalisasi-pelantaian-ideal-untuk-rumah-burung-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Lantai-papan-kayu-mudah-dalam-pembongkaran.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Penghematan-penggunaan-bekesting-pada-rumah-burung-walet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
+		<lastmod>2024-12-04T08:08:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
+		<lastmod>2024-12-04T08:05:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-di-inari-expo-2024-dengan-brin/</loc>
+		<lastmod>2024-12-04T08:05:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pengunjung-di-booth-Markaswalet-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/tinggi-lantai-2-meter-budidaya-walet/</loc>
-		<lastmod>2024-11-08T09:37:14+00:00</lastmod>
+		<lastmod>2024-12-04T08:04:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-2-scaled.jpg</image:loc>
 		</image:image>
@@ -264,12 +677,34 @@
 			<image:loc>/wp-content/uploads/2024/10/Burung-Walet-Nyaman-Ketinggian-Lantai-2-Meter.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/material-lantai-rbw-kayu-dan-beton/</loc>
+		<lastmod>2024-12-04T08:04:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pelantaian-Menggunakan-Papan-Kayu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pelantaian-Menggunakan-Beton.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Kombinasi-Pelantaian-Kayu-dan-Beton.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Rancangan-Desain-RBW-Oleh-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/menara-untuk-rumah-burung-walet/</loc>
-		<lastmod>2024-11-08T09:35:58+00:00</lastmod>
+		<lastmod>2024-12-04T08:04:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
 		</image:image>
@@ -292,12 +727,12 @@
 			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/strategi-cerdas-penempatan-menara-rbw/</loc>
-		<lastmod>2024-11-08T09:34:50+00:00</lastmod>
+		<lastmod>2024-12-04T08:01:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/RBW-7-scaled.jpg</image:loc>
 		</image:image>
@@ -308,12 +743,12 @@
 			<image:loc>/wp-content/uploads/2024/10/Menara-RBW-Besar-Pada-Setiap-Sisi.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/innovfest-2024-markaswalet-di-singapore-expo/</loc>
-		<lastmod>2024-11-08T09:34:34+00:00</lastmod>
+		<lastmod>2024-12-04T08:00:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-Pak-Sandiaga-Uno.jpeg</image:loc>
 		</image:image>
@@ -324,12 +759,12 @@
 			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-1-e1730361082157.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/ciputra-venture-brin-markaswalet-teken-mou/</loc>
-		<lastmod>2024-11-08T09:34:01+00:00</lastmod>
+		<lastmod>2024-12-04T08:00:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Markaswalet-Ciputra-Venture-BRIN.jpeg</image:loc>
 		</image:image>
@@ -340,12 +775,12 @@
 			<image:loc>/wp-content/uploads/2024/11/Foto-dengan-MoU.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/mendorong-kewirausahaan-melalui-business-competition-2024/</loc>
-		<lastmod>2024-11-08T09:33:22+00:00</lastmod>
+		<lastmod>2024-12-04T08:00:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024.png</image:loc>
 		</image:image>
@@ -356,12 +791,12 @@
 			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/void-pada-rumah-burung-walet/</loc>
-		<lastmod>2024-11-08T09:32:29+00:00</lastmod>
+		<lastmod>2024-12-04T07:59:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-5-scaled.jpg</image:loc>
 		</image:image>
@@ -378,12 +813,12 @@
 			<image:loc>/wp-content/uploads/2024/11/Struktur-Pada-Void-RBW.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/desain-void-ideal-buat-rbw-lebih-produktif/</loc>
-		<lastmod>2024-11-08T09:32:24+00:00</lastmod>
+		<lastmod>2024-12-04T07:57:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
 		</image:image>
@@ -403,12 +838,12 @@
 			<image:loc>/wp-content/uploads/2024/11/Void-Harus-Bebas-dari-Segala-Hambatan.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/populasi-walet-naik-manfaat-void/</loc>
-		<lastmod>2024-11-08T09:30:39+00:00</lastmod>
+		<lastmod>2024-12-04T07:57:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-2-scaled.jpg</image:loc>
 		</image:image>
@@ -419,7 +854,7 @@
 			<image:loc>/wp-content/uploads/2024/11/Void-Memperlancar-Aliran-Udara-Pada-RBW.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Void-Terjun.png</image:loc>
@@ -436,7 +871,7 @@
 	</url>
 	<url>
 		<loc>/article/lmb-penting-buat-rumah-burung-walet/</loc>
-		<lastmod>2024-11-08T09:30:25+00:00</lastmod>
+		<lastmod>2024-12-04T07:56:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
 		</image:image>
@@ -450,7 +885,7 @@
 			<image:loc>/wp-content/uploads/2024/11/RBW-Ukuran-8x24-Dengan-2-LMB-Pada-1-Menara-tengah.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Desain-LMB-1-sisi-tampak-depan.png</image:loc>
@@ -467,7 +902,7 @@
 	</url>
 	<url>
 		<loc>/article/desain-dan-material-sirip-rbw/</loc>
-		<lastmod>2024-11-08T09:30:18+00:00</lastmod>
+		<lastmod>2024-12-04T07:56:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-8-scaled.jpg</image:loc>
 		</image:image>
@@ -484,7 +919,7 @@
 			<image:loc>/wp-content/uploads/2024/11/Sirip-Persegi-pada-RBW.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Instalasi-di-1-Layanan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Diameter-Bentang-Sayap-Burung-Walet.png</image:loc>
@@ -499,12 +934,12 @@
 			<image:loc>/wp-content/uploads/2024/11/Perbandingan-Ukuran-Sarang-Terhadap-Sirip.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/4-kayu-terbaik-sirip-gedung-walet/</loc>
-		<lastmod>2024-11-08T09:28:13+00:00</lastmod>
+		<lastmod>2024-12-04T07:54:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
 		</image:image>
@@ -512,7 +947,7 @@
 			<image:loc>/wp-content/uploads/2024/11/Pemilihan-Kualitas-dan-Kadar-Air-pada-Sirip.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Kayu-Jati.png</image:loc>
@@ -533,28 +968,12 @@
 			<image:loc>/wp-content/uploads/2024/11/Styrofoam-Sebagai-Landasan-Sarang-Burung-Walet.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/seminar-budidaya-walet-samarinda/</loc>
-		<lastmod>2024-11-08T09:27:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-3-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Instalasi-di-1-Layanan.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/article/markas-walet-trade-expo-indonesia-2024/</loc>
-		<lastmod>2024-11-08T09:19:37+00:00</lastmod>
+		<lastmod>2024-12-04T07:52:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/foto-bareng-scaled-e1731056512482.jpg</image:loc>
 		</image:image>
@@ -565,7 +984,262 @@
 			<image:loc>/wp-content/uploads/2024/11/DSC04791-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-budidaya-walet-samarinda/</loc>
+		<lastmod>2024-12-04T07:52:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/rekomendasi-ventilasi-rbw/</loc>
+		<lastmod>2024-12-04T07:51:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-pada-Rumah-Burung-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-Tepat-di-Atas-Kolam-Air.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Perpindahan-Udara-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-Alami-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penggunaan-Ventilasi-Mekanik-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ventilasi-pada-Void-Tidak-Diperlukan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Jaring-Ventilasi-Pencegah-Hama.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penambahan-Pipa-menggunakan-Elbow-Menghadap-Bawah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/keamanan-rbw-bikin-panen-melimpah/</loc>
+		<lastmod>2024-12-04T07:51:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Kawat-Berduri-Untuk-Keamanan-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penambahan-Baja-Tebal-Segai-Preventif-Pembobolan-Maling.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penambahan-Pintu-Ganda-Sebagai-Keamanan-Tambahan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/CCTV-Sebagai-Pemantau-Aktifitas-Walet-dan-Monitoring.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penerangan-Tambahan-Pada-Bagian-Luar-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penjagaan-RBW-dan-Akses-Terbatas-Diberlakukan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/tweeter-di-lmb-pengaruh-buat-walet/</loc>
+		<lastmod>2024-12-04T07:50:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Desain-penempatan-tweter-magnet-pada-LMB-siku-tampak-depan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Desain-penempatan-tweter-magnet-pada-LMB-1-sisi-tampak-depan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/desain-penempatan-tweter-magnet-pada-LMB-tampak-depan-Gambar-Atas-Adalah-Contoh-Penempatan-LMB-yang-benar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Arah-terbaik-LMB.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/LMB-tinggi-menyulitkan-burung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Hambatan-di-depan-LMB.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/waspada-hama-di-rbw/</loc>
+		<lastmod>2024-12-04T07:48:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penyakit-Salmonella-Pada-Burung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/budidaya-walet-dengan-ruang-audio/</loc>
+		<lastmod>2024-12-04T07:47:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ruang-Audio-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ruang-Transit.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ruang-Audio-Berperan-Sebagai-Gudang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Pendingin-Pada-Ruang-Audio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ruang-Audio-Berpotensi-Bising-Saat-Perbaikan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ukuran-Ruang-Audio-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Keamanan-Untuk-Ruang-Audio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Penataan-Perangkat-Elektronik-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Pelatihan-Pemantauan-RBW-pada-Seminar-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/cara-ampuh-cegah-hama-di-rbw/</loc>
+		<lastmod>2024-12-04T07:46:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-5-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Tikus-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Kecoa-didalam-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Semut-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Tokek-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Kelelawar-didalam-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Burung-Hantu.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Membersihkan-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Kolam-Mini-disekitar-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Inspeksi-Rutin-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Barang-Barang-Berserakan-Didalam-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/tips-pencahayaan-rumah-burung-walet/</loc>
+		<lastmod>2024-12-04T07:43:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/RBW-7-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ruang-Inap-yang-Gelap-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/LMB-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Lantai-Hitam-Dapat-Menyerap-Cahaya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Sekat-Gelap-Dapat-Menyerap-Cahaya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Distribusi-Cahaya-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-di-innovfest-suzhou-2024/</loc>
+		<lastmod>2024-12-04T07:41:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-2024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Pemaparan-Materi-oleh-CEO-Markaswalet-di-Innovfest-Suzhou-2024-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Pemaparan-Materi-oleh-CEO-Markaswalet-di-Innovfest-Suzhou-2024-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1549,545 +2223,6 @@
 		<lastmod>2024-10-30T02:57:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-5X15-1024x652-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-6x8/</loc>
-		<lastmod>2024-10-30T02:57:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/gedung-walet-16-1024x569.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sarang-walet-mangkuk/</loc>
-		<lastmod>2024-10-30T02:57:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/walet-patahan.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sarang-walet-serabut/</loc>
-		<lastmod>2024-10-30T02:56:50+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/walet-serabut.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/walet-patahan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/serabut-4.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sarang-walet-kaki/</loc>
-		<lastmod>2024-10-30T02:56:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/jualsarangburungwaletkakimurah4.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/jualsarangburungwaletkakimurah4.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/ingin-mulai-budidaya-walet-kenali-dulu-tiga-resikonya-agar-tidak-rugi/</loc>
-		<lastmod>2024-10-30T02:56:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/unnamed.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/eits-bangun-gedung-walet-jangan-sampai-salah-ketahui-dulu-berbagai-tipe-gedung-agar-produksi-sarang-melimpah/</loc>
-		<lastmod>2024-10-30T02:56:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/unnamed-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/ingin-burung-walet-nyaman-di-dalam-gedung-ketahui-dulu-kriterianya/</loc>
-		<lastmod>2024-10-30T02:56:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/aset7-1024x576.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sarang-burung-walet-eliksir-terkenal-dengan-manfaat-mutakhir/</loc>
-		<lastmod>2024-10-30T02:56:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/unnamed.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/partisipasi-peserta-msib-batch-4-pt-lentera-alam-nusantara-memperkenalkan-sarang-walet-ready-to-drink-nestone-melalui-event-pameran-jatim-halal-fest/</loc>
-		<lastmod>2024-10-30T02:55:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/halal-fest-e1687460909914.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/inovasi-panel-surya-pada-rumah-walet/</loc>
-		<lastmod>2024-10-30T02:55:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/07/desain-rbw.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/mengenal-ciri-burung-walet/</loc>
-		<lastmod>2024-10-30T02:55:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/DSC02751-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/DSC02745-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/manfaat-kotoran-burung-walet/</loc>
-		<lastmod>2024-10-30T02:55:30+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pasangan-burung-walet-1024x675.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/kotoran-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/kotoran-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/kotoran-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/tahap-pertumbuhan-dan-usia-burung-walet/</loc>
-		<lastmod>2024-10-30T02:55:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto_sarang_walet_pakalmuna-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/photo_telur-burung-walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/photo_anakan-burung-walet-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-remaja-1024x518.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/photo_burung-walet-dewasa-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-1024x341.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/fakta-menarik-burung-walet-sarang-putih/</loc>
-		<lastmod>2024-10-30T02:55:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-sarang-putih-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/populasi-burung-walet-di-dalam-RBW-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-bersifat-monogami.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/sarang-walet-putih-gua.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/tabel-kemampuan-ekolokasi-burung-walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/kemampuan-ekolokasi-burung-kelelawar.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/Informasi-Aplikasi-Markaswalet</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-di-dalam-gua-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kebiasaan-burung-walet/</loc>
-		<lastmod>2024-10-30T02:55:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-sarang-putih-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-berburu-serangga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/anakan-burung-walet-di-dalam-sarang.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/koloni-burung-walet-migrasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pasangan-burung-walet-1024x675.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-kembali-ke-RBW.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/peneliti-sedang-memantau-RBW.jpg-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/keanekaragaman-dan-adaptasi-walet/</loc>
-		<lastmod>2024-10-30T02:54:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Hirundapus-cochinchinensis.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Collocalia-esculenta.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Apus-Caffer.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aerodramus-Fuciphagus-Walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/aneka-ragam-spesies-burung-walet/</loc>
-		<lastmod>2024-10-30T02:54:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aerodramus-fuciphagus-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Collocalia-linchi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aerodramus-fuciphagus-Walet-Sarang-Putih.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aerodramus-maximus-Walet-Sarang-Hitam.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aerodramus-germani-Walet-Germain-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Apus-acuticauda.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/5-saudara-burung-walet-di-indonesia/</loc>
-		<lastmod>2024-10-30T02:54:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-di-udara.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-sriti-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-sriti-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-walet-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-walet-300x220.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-gigas-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-gigas-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Morfologi-tubuh-burung-sarang-hitam-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Bentuk-sarang-burung-sarang-hitam-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/cara-burung-walet-membuat-sarang-dari-air-liur/</loc>
-		<lastmod>2024-10-30T02:54:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-walet-putih-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-walet-di-tempat-gelap.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/produksi-air-liur-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/anakan-burung-walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-burung-walet-baru.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-walet-putih-2-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/potensi-sarang-walet-di-indonesia/</loc>
-		<lastmod>2024-10-30T02:54:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Sarang-walet-putih-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Supply-sarang-walet-dari-Indonesia.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Perkembangan-eksport-sarang-walet-Indonesia.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Teknologi-dalam-budidaya-walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/28x-Seminar-edukasi-oleh-Markaswalet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/risiko-dan-tantangan-dalam-budidaya-walet/</loc>
-		<lastmod>2024-10-30T02:54:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cara-ternak-walet-rumahan.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/jual-beli-sarang-walet-di-tiongkok.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cctv.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/lokasi-ideal-penting-untuk-budidaya-walet/</loc>
-		<lastmod>2024-10-30T02:54:00+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-hutan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-berburu-makanan-di-sekitar-perairan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-sawah.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-sawit.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pinggir-laut.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pegunungan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-keramaian.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-dekat-tempat-ibadah.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pasar.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-area-industri.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-pinggir-jalan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-burung-walet-di-tengah-kota.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/tips-memilih-lokasi-rumah-burung-walet/</loc>
-		<lastmod>2024-10-30T02:53:41+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/rumah-bangun-walet-3-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pengamatan-populasi-burung.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/burung-walet-saat-senja.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pengamatan-sumber-pakan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pengamatan-sumber-pakan-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/area-padat-kompetitor.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/burung-walet-kembali-ke-sarang.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/persetujuan-perwakilan-warga-terhadap-RBW.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/RBW-area-jauh-pemukiman.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/risiko-lingkungan-yang-mengancam-rbw-baru/</loc>
-		<lastmod>2024-10-30T02:53:33+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/akses-menuju-RBW.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/perkembangan-demografi-di-sekitar-RBW.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/studi-kelayakan-rbw-dengan-alat-bantu/</loc>
-		<lastmod>2024-10-30T02:53:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/alat-pemanggil-burung-walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/alat-termogun-suhu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/kamera-sebagai-dokumentasi.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/aturan-garis-sempadan-rumah-walet/</loc>
-		<lastmod>2024-10-30T02:53:18+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/simulasi-garis-sempadan-pada-RBW.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Simulasi-Garis-Sempadan-pada-RBW-tepi-jalan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Simulasi-Garis-Sempadan-pada-RBW-tepi-sungai.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/maksimalkan-rasio-lahan-rumah-walet/</loc>
-		<lastmod>2024-10-30T02:53:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Simulasi-KDB-RBW-Menunjukkan-angka-0.53-Terhadap-Lahan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kenali-jenis-tanah-untuk-budidaya-walet/</loc>
-		<lastmod>2024-10-30T02:53:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-5-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-pada-tanah-gambut.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-terjal-dan-tebing.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-tanah-berair-jenuh.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-pantai.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-pinggir-sungai.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-tanah-keras.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-area-tanah-tidak-datar.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/ikh-dan-nkv-untuk-kualitas-sarang-walet/</loc>
-		<lastmod>2024-10-30T02:52:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sarang-walet-basah.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Contoh-Gedung-Standart-IKH.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/sertifikasi-NKV.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Sosialisai-Standarisasi-RBW-Bersama-Balai-Karantina.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
