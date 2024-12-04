@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/markaswalet-di-innovfest-suzhou-2024/</loc>
+		<lastmod>2024-12-04T06:11:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-3-Renivasi-Alih-fungsi.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/tips-pencahayaan-rumah-burung-walet/</loc>
+		<lastmod>2024-12-04T05:50:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/RBW-7-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Ruang-Inap-yang-Gelap-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/LMB-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Lantai-Hitam-Dapat-Menyerap-Cahaya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Sekat-Gelap-Dapat-Menyerap-Cahaya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-3-Renivasi-Alih-fungsi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Distribusi-Cahaya-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Banner-4-Layanan-Eksklusif.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/waspada-hama-di-rbw/</loc>
 		<lastmod>2024-11-28T09:21:30+00:00</lastmod>
 		<image:image>
@@ -2041,59 +2085,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Sosialisai-Standarisasi-RBW-Bersama-Balai-Karantina.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/7-tipe-rumah-burung-walet/</loc>
-		<lastmod>2024-10-30T02:52:45+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-6-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-menggunakan-bangunan-bekas-ruko.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-di-atas-ruko-aktif.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Rumah.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-diatas-Rumah.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Bekas-Gudang-Sebelum-DIrenovasi.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Diatas-Gudang.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Pembangunan-RBW-dari-Nol.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/pilih-material-bangunan-rumah-walet/</loc>
-		<lastmod>2024-10-30T02:52:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-8-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-full-beton.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Permanen-atau-Baja.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Bawah-Beton-dan-Atas-Konstruksi-Kayu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/RBW-Full-Kayu.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/banner-ads.png</image:loc>
