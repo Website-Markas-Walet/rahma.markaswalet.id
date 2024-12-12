@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/biar-walet-betah-atur-suhu-rumahnya/</loc>
+		<lastmod>2024-12-12T03:38:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-8-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Mengukur-Suhu-didalam-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Ventilasi-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Ketebalan-Dinding-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Alumunium-Foil-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Paranite-pada-bagian-luar-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/manfaat-kotoran-burung-walet/</loc>
 		<lastmod>2024-12-04T08:29:00+00:00</lastmod>
 		<image:image>
@@ -2216,13 +2244,6 @@
 		<lastmod>2024-10-30T02:57:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-3X7-1024x673-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-5x15/</loc>
-		<lastmod>2024-10-30T02:57:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-5X15-1024x652-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
