@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/dingin-atau-lembap-bikin-walet-betah/</loc>
+		<lastmod>2024-12-18T07:24:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Kolam-Air-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Ketebalan-Dinding-pada-RBW-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Kotoran-Walet-pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Sarang-yang-Menguning-dan-Bentuk-dan-Tidak-Sempurna-Dapat-Disebabkan-oleh-Kelebapan-yang-Terlalu-Tinggi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Penambahan-Ventilasi-Dapat-mengurangi-Kelembapan-Didalam-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Jamur-Pada-Sirip-DIsebabkan-Kelembapan-Terlalu-Tinggi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Sarang-Pada-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/biar-walet-betah-atur-suhu-rumahnya/</loc>
 		<lastmod>2024-12-12T03:38:57+00:00</lastmod>
 		<image:image>
@@ -2237,13 +2271,6 @@
 		<lastmod>2024-10-30T02:57:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/gedung-walet-8-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-3x7/</loc>
-		<lastmod>2024-10-30T02:57:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-3X7-1024x673-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
