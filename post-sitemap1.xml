@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/inovasi-canggih-aplikasi-markaswalet/</loc>
+		<lastmod>2024-12-24T04:39:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-10-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Aplikasi-Markaswalet-di-Playstore.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Kerjasama-Dengan-Dinas-Peternakan-dan-Kesehatan-Hewan-Provinsi-Kalimantan-Timur.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Teknologi-Pertama-Di-Dunia-Penghitung-Populasi-Burung-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Berbagai-Fitur-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Mengambil-Keputusan-didalam-RBW-Berdasarkan-Data.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Pemasangan-CCTV-Penghitung-Populasi-Burung-Walet-oleh-Tim-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Pelatihan-Penggunaan-Aplikasi-Penghitung-Populasi-Burung-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Kerjasama-Dengan-Lembaga-Pemerintah-dan-Universitas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/dingin-atau-lembap-bikin-walet-betah/</loc>
-		<lastmod>2024-12-18T07:24:29+00:00</lastmod>
+		<lastmod>2024-12-24T04:36:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/RBW-9-scaled.jpg</image:loc>
 		</image:image>
@@ -2264,13 +2301,6 @@
 		<lastmod>2024-10-30T02:57:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-4X12-1024x724-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-6x12/</loc>
-		<lastmod>2024-10-30T02:57:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/gedung-walet-8-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
