@@ -62,59 +62,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/information-center/</loc>
-		<lastmod>2024-11-15T18:52:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/</loc>
-		<lastmod>2024-10-28T03:58:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/premium-birdnest-product/</loc>
-		<lastmod>2024-10-13T15:36:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Nest-Sorting-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Feather-Removal-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Grade.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Steril.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Package.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/nkv.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/hccp-removebg-preview-e1722496235465.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/Asset-724@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/Asset-725@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/Asset-723@2x.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/about-us/</loc>
-		<lastmod>2024-09-12T12:22:40+00:00</lastmod>
+		<lastmod>2025-02-11T09:33:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/new-our-founder.png</image:loc>
 		</image:image>
@@ -171,6 +120,57 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Asset-858@2x-e1685521306244-1024x1024.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/information-center/</loc>
+		<lastmod>2024-11-15T18:52:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/</loc>
+		<lastmod>2024-10-28T03:58:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/premium-birdnest-product/</loc>
+		<lastmod>2024-10-13T15:36:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Asset-41.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Nest-Sorting-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Cleaning.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Feather-Removal-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Grade.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Steril.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Package.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/nkv.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/hccp-removebg-preview-e1722496235465.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-724@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-725@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Asset-723@2x.png</image:loc>
 		</image:image>
 	</url>
 	<url>

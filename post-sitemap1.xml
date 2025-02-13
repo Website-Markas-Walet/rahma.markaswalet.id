@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/pentingnya-denah-untuk-rbw/</loc>
+		<lastmod>2025-02-13T03:30:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Denah-Rumah-Burung-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Penempatan-Suara-dan-Ruang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Peserta-Seminar-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-jalin-kerja-sama-supply-chain-sarang-walet-di-kotabaru/</loc>
+		<lastmod>2025-02-13T03:23:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Kerjasama-antara-Bapak-Imansyah-dengan-Markaswalet-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Cerita-Perjalanan-Bapak-Imansyah-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-markaswalet-angkatan-31/</loc>
+		<lastmod>2025-02-10T13:23:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Peserta-Seminar-Markaswalet-Angkatan-31-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Sesi-bedah-denah-tata-ruang-dan-tata-suara-RBW.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Peserta-melakukan-praktik-cuci-sarang-walet-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Penyampaian-materi-eksklusif-oleh-drh.-Isrokal-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/paket-perawatan-tahunan-markaswalet/</loc>
+		<lastmod>2025-02-01T04:13:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Paket-perawatan-tahunan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Perlengkapan-dalam-paket.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Keunggulan-paket-tahunan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Paket-baru-perawatan-lengkap-tahunan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/inovasi-canggih-aplikasi-markaswalet/</loc>
 		<lastmod>2024-12-24T04:39:33+00:00</lastmod>
 		<image:image>
@@ -2270,37 +2343,6 @@
 		<lastmod>2024-10-30T02:58:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/hancuran-5.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/cara-mengetahui-lokasi-yang-bagus-untuk-ekosistem-sarang-burung-walet/</loc>
-		<lastmod>2024-10-30T02:58:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/mangkok-4-300x225-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/walet-patahan.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-4x10/</loc>
-		<lastmod>2024-10-30T02:57:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-4X10-1024x574-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-4x12/</loc>
-		<lastmod>2024-10-30T02:57:48+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-4X12-1024x724-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kontraktor-rumah-walet-ukuran-4x4/</loc>
-		<lastmod>2024-10-30T02:57:41+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/gedung-walet-ukuran-4X12-1024x724-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
