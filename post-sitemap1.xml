@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/jenis-lar-untuk-rumah-burung-walet-yang-lebih-efisien/</loc>
+		<lastmod>2025-02-14T07:00:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-4-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Lubang-Akses-Ruangan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Lubang-Antar-Ruangan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/LAR-Void-Lubang.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/LAR-Void-Pintu.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/LAR-Inap.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Lubang-Antar-Lantai.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Peranan-LAR-dalam-Navigasi-Burung-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/bangun-rbw-optimal-pelajari-pembagian-ruangannya/</loc>
+		<lastmod>2025-02-14T06:41:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/RBW-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Ruang-Void.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Ruang-Jalur.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Sirip-di-Ruang-Jalur.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Ruang-Inap.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/pentingnya-denah-untuk-rbw/</loc>
 		<lastmod>2025-02-13T03:30:02+00:00</lastmod>
 		<image:image>
@@ -2329,20 +2388,6 @@
 		<lastmod>2024-10-30T02:58:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/sarang-walet-4-1024x683-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/budidaya-sarang-burung-walet-sederhana/</loc>
-		<lastmod>2024-10-30T02:58:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/sarang-walet-4-1024x683-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/kenapa-sarang-burung-walet-dikenakan-pajak/</loc>
-		<lastmod>2024-10-30T02:58:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/hancuran-5.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
