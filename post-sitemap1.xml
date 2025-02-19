@@ -1,6 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/kolaborasi-markaswalet-dan-dpkh-kaltim/</loc>
+		<lastmod>2025-02-19T01:30:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-pelatihan-budidaya-walet-DPKH-Kaltim.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Markaswalet-oleh-Maulana-Satria-Aji-dan-Pelaksana-Harian-Kepala-DPKH-Kaltim-ibu-drh.-Dyah-Anggraini-M.Si_-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
+		<lastmod>2025-02-19T01:29:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
+		<lastmod>2025-02-19T01:29:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-di-inari-expo-2024-dengan-brin/</loc>
+		<lastmod>2025-02-19T01:29:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pengunjung-di-booth-Markaswalet-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-Inarie-Expo-2024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/innovfest-2024-markaswalet-di-singapore-expo/</loc>
+		<lastmod>2025-02-19T01:29:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-Pak-Sandiaga-Uno.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-3-e1730361133900.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-1-e1730361082157.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/ciputra-venture-brin-markaswalet-teken-mou/</loc>
+		<lastmod>2025-02-19T01:29:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Markaswalet-Ciputra-Venture-BRIN.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Tandatangan-MoU.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Foto-dengan-MoU.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/mendorong-kewirausahaan-melalui-business-competition-2024/</loc>
+		<lastmod>2025-02-19T01:28:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markas-walet-trade-expo-indonesia-2024/</loc>
+		<lastmod>2025-02-19T01:28:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/foto-bareng-scaled-e1731056512482.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC04768-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC04791-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-budidaya-walet-samarinda/</loc>
+		<lastmod>2025-02-19T01:28:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-3-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-di-innovfest-suzhou-2024/</loc>
+		<lastmod>2025-02-19T01:28:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-2024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Pemaparan-Materi-oleh-CEO-Markaswalet-di-Innovfest-Suzhou-2024-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Pemaparan-Materi-oleh-CEO-Markaswalet-di-Innovfest-Suzhou-2024-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/paket-perawatan-tahunan-markaswalet/</loc>
+		<lastmod>2025-02-19T01:27:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Paket-perawatan-tahunan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Perlengkapan-dalam-paket.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Keunggulan-paket-tahunan.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Paket-baru-perawatan-lengkap-tahunan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/seminar-markaswalet-angkatan-31/</loc>
+		<lastmod>2025-02-19T01:27:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Peserta-Seminar-Markaswalet-Angkatan-31-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Sesi-bedah-denah-tata-ruang-dan-tata-suara-RBW.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Peserta-melakukan-praktik-cuci-sarang-walet-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Penyampaian-materi-eksklusif-oleh-drh.-Isrokal-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/article/markaswalet-jalin-kerja-sama-supply-chain-sarang-walet-di-kotabaru/</loc>
+		<lastmod>2025-02-19T01:27:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Kerjasama-antara-Bapak-Imansyah-dengan-Markaswalet-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Cerita-Perjalanan-Bapak-Imansyah-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/cara-pilih-suara-walet-yang-pas-di-setiap-lokasi-rbw/</loc>
 		<lastmod>2025-02-19T00:03:10+00:00</lastmod>
 		<image:image>
@@ -154,57 +356,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/markaswalet-jalin-kerja-sama-supply-chain-sarang-walet-di-kotabaru/</loc>
-		<lastmod>2025-02-13T03:23:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Kerjasama-antara-Bapak-Imansyah-dengan-Markaswalet-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Cerita-Perjalanan-Bapak-Imansyah-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/seminar-markaswalet-angkatan-31/</loc>
-		<lastmod>2025-02-10T13:23:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Peserta-Seminar-Markaswalet-Angkatan-31-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Sesi-bedah-denah-tata-ruang-dan-tata-suara-RBW.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Peserta-melakukan-praktik-cuci-sarang-walet-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Penyampaian-materi-eksklusif-oleh-drh.-Isrokal-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/paket-perawatan-tahunan-markaswalet/</loc>
-		<lastmod>2025-02-01T04:13:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Paket-perawatan-tahunan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Perlengkapan-dalam-paket.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Keunggulan-paket-tahunan.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Paket-baru-perawatan-lengkap-tahunan.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -885,19 +1036,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/article/kolaborasi-markaswalet-dan-dpkh-kaltim/</loc>
-		<lastmod>2024-12-04T08:09:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Peserta-pelatihan-budidaya-walet-DPKH-Kaltim.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Markaswalet-oleh-Maulana-Satria-Aji-dan-Pelaksana-Harian-Kepala-DPKH-Kaltim-ibu-drh.-Dyah-Anggraini-M.Si_-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/article/lantai-genap-bangun-rumah-walet/</loc>
 		<lastmod>2024-12-04T08:08:43+00:00</lastmod>
 		<image:image>
@@ -911,48 +1049,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Penghematan-penggunaan-bekesting-pada-rumah-burung-walet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/seminar-budidaya-walet-di-banjarmasin/</loc>
-		<lastmod>2024-12-04T08:08:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-peserta-seminar.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-pemateri-mengisi-seminar.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/sinergi-markaswalet-dengan-dinaskeswan-kaltim/</loc>
-		<lastmod>2024-12-04T08:05:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Peserta-FGD-Markaswalet-dan-Dinaskeswan-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-FGD.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/markaswalet-di-inari-expo-2024-dengan-brin/</loc>
-		<lastmod>2024-12-04T08:05:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Inarie-Expo-2024.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pengunjung-di-booth-Markaswalet-Inarie-Expo-2024.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Pemateri-Markaswalet-di-Inarie-Expo-2024.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
@@ -1047,54 +1143,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Menara-RBW-Besar-Pada-Setiap-Sisi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/innovfest-2024-markaswalet-di-singapore-expo/</loc>
-		<lastmod>2024-12-04T08:00:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Foto-bersama-Pak-Sandiaga-Uno.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-3-e1730361133900.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Innovfest-2024-1-e1730361082157.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/ciputra-venture-brin-markaswalet-teken-mou/</loc>
-		<lastmod>2024-12-04T08:00:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Markaswalet-Ciputra-Venture-BRIN.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Tandatangan-MoU.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Foto-dengan-MoU.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/mendorong-kewirausahaan-melalui-business-competition-2024/</loc>
-		<lastmod>2024-12-04T08:00:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Launching-5-Million-Entrepreneurs-2045-Business-Competition-2024-4.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
@@ -1275,38 +1323,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/Parfum-Walet-Sukses-Budidaya-Walet.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/markas-walet-trade-expo-indonesia-2024/</loc>
-		<lastmod>2024-12-04T07:52:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/foto-bareng-scaled-e1731056512482.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DSC04768-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DSC04791-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Jasa-Pembangunan-RBW-Terpercaya-di-Seluruh-Indonesia.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/seminar-budidaya-walet-samarinda/</loc>
-		<lastmod>2024-12-04T07:52:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Seminar-Budidaya-Walet-di-Samarinda-3-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Tukang-Material-Instalasi-di-1-Layanan.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1530,22 +1546,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/Layanan-Eksklusif-untuk-Pembangunan-RBW-Anda.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/markaswalet-di-innovfest-suzhou-2024/</loc>
-		<lastmod>2024-12-04T07:41:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Innovfest-Suzhou-2024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Pemaparan-Materi-oleh-CEO-Markaswalet-di-Innovfest-Suzhou-2024-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Pemaparan-Materi-oleh-CEO-Markaswalet-di-Innovfest-Suzhou-2024-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/Renovasi-dan-Alih-Fungsi-Bangunan-Menjadi-RBW.png</image:loc>
 		</image:image>
 	</url>
 	<url>
