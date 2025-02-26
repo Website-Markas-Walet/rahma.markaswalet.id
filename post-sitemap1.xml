@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/article/inovasi-ai-markaswalet-solusi-cerdas-untuk-meningkatkan-penghasilan-petani-walet/</loc>
+		<lastmod>2025-02-25T15:10:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Teknologi-dalam-budidaya-walet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Inovasi-AI-Markaswalet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/Informasi-Aplikasi-Markaswalet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/article/pilih-sekat-rbw-yang-pas-terpal-karpet-atau-bata/</loc>
 		<lastmod>2025-02-21T06:54:58+00:00</lastmod>
 		<image:image>
@@ -2456,13 +2469,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/sarang-walet-11.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/article/harta-karun-sarang-burung-walet/</loc>
-		<lastmod>2024-10-30T02:59:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/walet-kuning.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
