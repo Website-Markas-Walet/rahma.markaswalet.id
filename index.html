@@ -1126,76 +1126,117 @@ flexibility(document.documentElement);
 
 
 <!-- ===== COMMUNITY MARQUEE ===== -->
-<style>
-@keyframes mw-ticker {
-  0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-</style>
-<div style="background:#0a1410;padding:52px 0;overflow:hidden;position:relative;">
-  <!-- fade edges -->
-  <div style="position:absolute;top:0;bottom:0;left:0;width:120px;background:linear-gradient(to right,#0a1410,transparent);z-index:3;pointer-events:none;"></div>
-  <div style="position:absolute;top:0;bottom:0;right:0;width:120px;background:linear-gradient(to left,#0a1410,transparent);z-index:3;pointer-events:none;"></div>
-  <!-- header -->
-  <div style="text-align:center;margin-bottom:32px;position:relative;z-index:2;">
-    <div style="display:inline-block;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#FFB100;margin-bottom:10px;">Our Community</div>
-    <p style="font-size:13px;font-weight:600;letter-spacing:.5px;color:rgba(255,255,255,.4);margin:0;">25+ workshops across 10 provinces — and counting</p>
+<div id="mwtk-wrap">
+  <div id="mwtk-header">
+    <div id="mwtk-label">Our Community</div>
+    <p id="mwtk-sub">25+ workshops across 10 provinces — and counting</p>
   </div>
-  <!-- track -->
-  <div style="overflow:hidden;width:100%;">
-    <div id="mw-ticker-track" style="display:flex;flex-direction:row;flex-wrap:nowrap;width:max-content;animation:mw-ticker 40s linear infinite;" onmouseenter="this.style.animationPlayState='paused'" onmouseleave="this.style.animationPlayState='running'">
-<div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-bannerkuning.png" alt="Workshop Markas Walet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Markas Walet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda.JPG" alt="Pelatihan TOT — Pemprov Samarinda" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Pelatihan TOT — Pemprov Samarinda</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda1.JPG" alt="Workshop Pemprov Samarinda" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Pemprov Samarinda</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda2.JPG" alt="Workshop Pemprov Samarinda" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Pemprov Samarinda</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-samarinda.JPG" alt="Seminar Usaha Budidaya Walet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Seminar Usaha Budidaya Walet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-kabupaten-bulungan.JPG" alt="Workshop Kabupaten Bulungan" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Kabupaten Bulungan</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-walet.JPG" alt="Seminar Usaha Budidaya Walet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Seminar Usaha Budidaya Walet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-seminar.png" alt="Seminar Budidaya Markaswalet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Seminar Budidaya Markaswalet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-bannerkuning.png" alt="Workshop Markas Walet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Markas Walet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda.JPG" alt="Pelatihan TOT — Pemprov Samarinda" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Pelatihan TOT — Pemprov Samarinda</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda1.JPG" alt="Workshop Pemprov Samarinda" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Pemprov Samarinda</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda2.JPG" alt="Workshop Pemprov Samarinda" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Pemprov Samarinda</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-samarinda.JPG" alt="Seminar Usaha Budidaya Walet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Seminar Usaha Budidaya Walet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-kabupaten-bulungan.JPG" alt="Workshop Kabupaten Bulungan" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Workshop Kabupaten Bulungan</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-walet.JPG" alt="Seminar Usaha Budidaya Walet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Seminar Usaha Budidaya Walet</div>
-    </div><div style="flex:0 0 280px;width:280px;margin:0 10px;border-radius:14px;overflow:hidden;position:relative;background:#1a2e24;box-shadow:0 8px 32px rgba(0,0,0,.4);">
-      <img src="/wp-content/uploads/community/workshop-seminar.png" alt="Seminar Budidaya Markaswalet" loading="lazy" style="width:280px;height:180px;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none'">
-      <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(to top,rgba(10,20,16,.92) 0%,transparent 100%);padding:24px 14px 12px;font-size:12px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4;">Seminar Budidaya Markaswalet</div>
-    </div>
+  <div id="mwtk-outer">
+    <div id="mwtk-fade-l"></div>
+    <div id="mwtk-fade-r"></div>
+    <div id="mwtk-viewport">
+      <div id="mwtk-track">
+<div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-bannerkuning.png" alt="Workshop Markas Walet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Markas Walet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda.JPG" alt="Pelatihan TOT — Pemprov Samarinda" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Pelatihan TOT — Pemprov Samarinda</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda1.JPG" alt="Workshop Pemprov Samarinda" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Pemprov Samarinda</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda2.JPG" alt="Workshop Pemprov Samarinda" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Pemprov Samarinda</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-samarinda.JPG" alt="Seminar Usaha Budidaya Walet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Seminar Usaha Budidaya Walet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-kabupaten-bulungan.JPG" alt="Workshop Kabupaten Bulungan" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Kabupaten Bulungan</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-walet.JPG" alt="Seminar Usaha Budidaya Walet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Seminar Usaha Budidaya Walet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-seminar.png" alt="Seminar Budidaya Markaswalet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Seminar Budidaya Markaswalet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-bannerkuning.png" alt="Workshop Markas Walet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Markas Walet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda.JPG" alt="Pelatihan TOT — Pemprov Samarinda" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Pelatihan TOT — Pemprov Samarinda</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda1.JPG" alt="Workshop Pemprov Samarinda" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Pemprov Samarinda</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-pemprov-samarinda2.JPG" alt="Workshop Pemprov Samarinda" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Pemprov Samarinda</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-samarinda.JPG" alt="Seminar Usaha Budidaya Walet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Seminar Usaha Budidaya Walet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-kabupaten-bulungan.JPG" alt="Workshop Kabupaten Bulungan" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Workshop Kabupaten Bulungan</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-walet.JPG" alt="Seminar Usaha Budidaya Walet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Seminar Usaha Budidaya Walet</span>
+    </div><div class="mwtk-item">
+      <img src="/wp-content/uploads/community/workshop-seminar.png" alt="Seminar Budidaya Markaswalet" onerror="this.parentElement.style.display='none'">
+      <span class="mwtk-cap">Seminar Budidaya Markaswalet</span>
+    </div>      </div>
     </div>
   </div>
 </div>
+<style>
+#mwtk-wrap        { background:#0a1410; padding:52px 0; }
+#mwtk-header      { text-align:center; margin-bottom:32px; }
+#mwtk-label       { font-size:12px; font-weight:700; letter-spacing:2px; text-transform:uppercase; color:#FFB100; margin-bottom:8px; }
+#mwtk-sub         { font-size:13px; color:rgba(255,255,255,.4); margin:0; }
+#mwtk-outer       { position:relative; }
+#mwtk-fade-l,
+#mwtk-fade-r      { position:absolute; top:0; bottom:0; width:120px; z-index:3; pointer-events:none; }
+#mwtk-fade-l      { left:0;  background:linear-gradient(to right, #0a1410, transparent); }
+#mwtk-fade-r      { right:0; background:linear-gradient(to left,  #0a1410, transparent); }
+#mwtk-viewport    { overflow:hidden; width:100%; }
+#mwtk-track       { display:block; white-space:nowrap; line-height:0; }
+.mwtk-item        { display:inline-block !important; vertical-align:top !important; width:280px !important; margin:0 10px !important; border-radius:14px !important; overflow:hidden !important; position:relative !important; background:#1a2e24 !important; box-shadow:0 8px 32px rgba(0,0,0,.4) !important; }
+.mwtk-item img    { display:block !important; width:280px !important; height:180px !important; object-fit:cover !important; }
+.mwtk-cap         { display:block !important; position:absolute !important; bottom:0 !important; left:0 !important; right:0 !important; background:linear-gradient(to top,rgba(10,20,16,.92),transparent) !important; padding:24px 14px 12px !important; font-size:12px !important; font-weight:600 !important; color:rgba(255,255,255,.85) !important; line-height:1.4 !important; white-space:normal !important; }
+</style>
+<script>
+(function(){
+  var track = document.getElementById('mwtk-track');
+  var outer = document.getElementById('mwtk-viewport');
+  if(!track || !outer) return;
+  var pos = 0;
+  var paused = false;
+  var halfW;
+  function getHalf(){
+    var items = track.querySelectorAll('.mwtk-item');
+    var half = items.length / 2;
+    var w = 0;
+    for(var i=0; i<half; i++){
+      w += items[i].offsetWidth + 20;
+    }
+    return w;
+  }
+  function step(){
+    if(!paused){
+      pos += 0.5;
+      if(!halfW || pos >= halfW) halfW = getHalf();
+      if(pos >= halfW) pos = 0;
+      track.style.transform = 'translateX(-' + pos + 'px)';
+    }
+    requestAnimationFrame(step);
+  }
+  outer.addEventListener('mouseenter', function(){ paused = true; });
+  outer.addEventListener('mouseleave', function(){ paused = false; });
+  // Wait for images to have dimensions
+  window.addEventListener('load', function(){ halfW = getHalf(); });
+  requestAnimationFrame(step);
+})();
+</script>
 <!-- ===== /COMMUNITY MARQUEE ===== -->
 
 <!-- ============================================================
