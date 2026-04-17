@@ -1132,11 +1132,12 @@ flexibility(document.documentElement);
   padding: 56px 0;
   overflow: hidden;
   position: relative;
+  width: 100%;
 }
 .mw-marquee::before,
 .mw-marquee::after {
   content: '';
-  position: absolute; top: 0; bottom: 0; width: 160px; z-index: 3;
+  position: absolute; top: 0; bottom: 0; width: 120px; z-index: 3;
   pointer-events: none;
 }
 .mw-marquee::before {
@@ -1156,32 +1157,45 @@ flexibility(document.documentElement);
   font-size: 13px; font-weight: 600; letter-spacing: .5px;
   color: rgba(255,255,255,.45); margin: 0;
 }
-.mw-mq-track-wrap {
-  display: flex;
-  width: max-content;
-  animation: mw-marquee-scroll 32s linear infinite;
+/* Marquee outer — clips overflow */
+.mw-mq-outer {
+  overflow: hidden;
+  width: 100%;
 }
-.mw-mq-track-wrap:hover { animation-play-state: paused; }
-@keyframes mw-marquee-scroll {
-  from { transform: translateX(0); }
-  to   { transform: translateX(-50%); }
+/* Inner track — flex row, no wrap */
+.mw-mq-track {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: max-content;
+  animation: mw-scroll 36s linear infinite;
+}
+.mw-mq-track:hover { animation-play-state: paused; }
+@keyframes mw-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 .mw-mq-item {
-  flex-shrink: 0;
-  width: 280px; margin: 0 12px;
-  border-radius: 14px; overflow: hidden;
+  flex: 0 0 280px;
+  width: 280px;
+  margin: 0 12px;
+  border-radius: 14px;
+  overflow: hidden;
   position: relative;
   background: #1a2e24;
   box-shadow: 0 8px 32px rgba(0,0,0,.4);
   transition: transform .35s ease, box-shadow .35s ease;
+  display: block;
 }
 .mw-mq-item:hover {
   transform: translateY(-6px) scale(1.02);
   box-shadow: 0 20px 56px rgba(0,0,0,.5);
 }
 .mw-mq-item img {
-  width: 100%; height: 180px;
-  object-fit: cover; display: block;
+  width: 280px;
+  height: 180px;
+  object-fit: cover;
+  display: block;
   transition: transform .5s ease;
 }
 .mw-mq-item:hover img { transform: scale(1.06); }
@@ -1199,7 +1213,7 @@ flexibility(document.documentElement);
     <div class="mw-label">Our Community</div>
     <p>25+ workshops across 10 provinces — and counting</p>
   </div>
-  <div class="mw-mq-track-wrap">
+  <div class="mw-mq-outer"><div class="mw-mq-track">
 </div>
       <div class="mw-mq-item">
         <img src="/wp-content/uploads/community/workshop-bannerkuning.png"
@@ -1298,7 +1312,7 @@ flexibility(document.documentElement);
              onerror="this.closest('.mw-mq-item').style.display='none'">
         <div class="mw-mq-caption">"Ini Kata Petani Walet Tentang Seminar Markaswalet"</div>
       </div>
-  </div>
+  </div></div>
 </div>
 <!-- ===== /COMMUNITY MARQUEE ===== -->
 
