@@ -489,7 +489,7 @@ flexibility(document.documentElement);
 <style>
 /* ============================================================
    CULTIVATION TECHNOLOGY — REVAMPED
-   MataWalet PRO + Swara + Anti-Jamur + Smart RBW
+   MataWalet PRO + Swara Hub + Smart RBW
    ============================================================ */
 .mw-content-wrap *  { box-sizing: border-box; }
 .mw-content-wrap    { overflow-x: hidden; }
@@ -607,7 +607,7 @@ body { background: var(--ct-dark); }
 
 /* Hero product quick-nav */
 .ct-hero-nav {
-  display:grid; grid-template-columns:repeat(4,1fr); gap:16px;
+  display:grid; grid-template-columns:repeat(3,1fr); gap:16px;
   max-width:980px; margin:0 auto;
 }
 .ct-hero-nav-item {
@@ -624,7 +624,6 @@ body { background: var(--ct-dark); }
 }
 .ct-hero-nav-item-camera .ct-hero-nav-icon { background:rgba(96,180,255,.1); }
 .ct-hero-nav-item-sound  .ct-hero-nav-icon { background:rgba(255,177,0,.1); }
-.ct-hero-nav-item-antijamur .ct-hero-nav-icon { background:rgba(110,231,183,.1); }
 .ct-hero-nav-item-rbw    .ct-hero-nav-icon { background:rgba(167,139,250,.1); }
 .ct-hero-nav-item h4 { font-size:.9rem; font-weight:700; color:var(--ct-wht); margin:0; }
 .ct-hero-nav-item p { font-size:.72rem; color:var(--ct-gray); margin:0; }
@@ -951,47 +950,6 @@ body { background: var(--ct-dark); }
 /* ═══════════════════════════════════
    6. ANTI-JAMUR
 ═══════════════════════════════════ */
-.ct-aj { padding:100px 0; background:var(--ct-dark2); position:relative; overflow:hidden; }
-.ct-aj::before {
-  content:''; position:absolute; inset:0; pointer-events:none;
-  background:radial-gradient(ellipse 50% 40% at 20% 50%,rgba(110,231,183,.1),transparent 70%);
-}
-.ct-aj-in {
-  max-width:1280px; margin:0 auto; padding:0 40px;
-  position:relative; z-index:2;
-  display:grid; grid-template-columns:1fr 1.1fr; gap:72px; align-items:center;
-}
-.ct-aj-imgs {
-  display:grid; grid-template-columns:1fr 1fr; gap:16px;
-  position:relative;
-}
-.ct-aj-imgs img {
-  width:100%; border-radius:14px; box-shadow:0 16px 48px rgba(0,0,0,.5);
-  display:block; background:#fff;
-}
-.ct-aj-imgs .ct-aj-main {
-  grid-column:1/-1;
-  aspect-ratio:4/3;
-  object-fit:contain;
-  padding:24px;
-}
-.ct-aj-benefits { display:grid; grid-template-columns:repeat(2,1fr); gap:14px; margin:28px 0; }
-.ct-aj-benefit {
-  background:rgba(110,231,183,.05);
-  border:1px solid rgba(110,231,183,.15);
-  border-radius:12px; padding:16px 18px;
-}
-.ct-aj-benefit-icon { font-size:22px; margin-bottom:8px; }
-.ct-aj-benefit h5 { font-family:'Poppins',sans-serif; font-size:.85rem; font-weight:700; color:var(--ct-wht); margin:0 0 4px; }
-.ct-aj-benefit p { font-size:.75rem; color:var(--ct-gray); margin:0; line-height:1.5; }
-.ct-aj-variants { display:flex; gap:10px; flex-wrap:wrap; margin-top:20px; }
-.ct-aj-variant {
-  display:inline-flex; align-items:center; gap:8px;
-  background:rgba(255,255,255,.04); border:1px solid rgba(110,231,183,.2);
-  border-radius:100px; padding:8px 18px;
-  font-size:.82rem; font-weight:600; color:var(--ct-wht);
-}
-.ct-aj-variant-size { font-size:.72rem; color:var(--ct-green); font-family:'JetBrains Mono',monospace; }
 
 /* ═══════════════════════════════════
    7. PRODUCT PRICING
@@ -1000,8 +958,8 @@ body { background: var(--ct-dark); }
 .ct-pricing::before { content:''; position:absolute; inset:0; background:radial-gradient(ellipse 80% 60% at 50% 50%,rgba(255,177,0,.08),transparent); }
 .ct-pricing-hdr { text-align:center; margin-bottom:56px; position:relative; z-index:2; }
 .ct-pricing-grid {
-  display:grid; grid-template-columns:repeat(3,1fr); gap:24px;
-  max-width:1100px; margin:0 auto; padding:0 40px;
+  display:grid; grid-template-columns:repeat(2,1fr); gap:28px;
+  max-width:900px; margin:0 auto; padding:0 40px;
   position:relative; z-index:2;
 }
 .ct-pricing-card {
@@ -1070,11 +1028,9 @@ body { background: var(--ct-dark); }
   .ct-arch-connector { width:2px; height:28px; margin:0 auto; background:linear-gradient(180deg,transparent,rgba(255,255,255,.15),transparent); }
   .ct-phones { grid-template-columns:1fr; gap:48px; padding:0 24px; }
   .ct-phone:nth-child(1),.ct-phone:nth-child(3) { transform:none; }
-  .ct-sounds-grid { grid-template-columns:1fr 1fr; padding:0 24px; }
-  .ct-aj-in { grid-template-columns:1fr; gap:48px; padding:0 24px; }
-  .ct-aj-benefits { grid-template-columns:1fr; }
+  .ct-sounds-grid { grid-template-columns:1fr 1fr; padding:0 24px; } { grid-template-columns:1fr; gap:48px; padding:0 24px; } { grid-template-columns:1fr; }
   .ct-pricing-grid { grid-template-columns:1fr; padding:0 24px; }
-  .ct-hero,.ct-rbw,.ct-mwpro,.ct-swara,.ct-swara-features,.ct-swara-arch,.ct-swara-app,.ct-sounds,.ct-aj,.ct-pricing,.ct-cta { padding:72px 0; }
+  .ct-hero,.ct-rbw,.ct-mwpro,.ct-swara,.ct-swara-features,.ct-swara-arch,.ct-swara-app,.ct-sounds,.ct-pricing,.ct-cta { padding:72px 0; }
 }
 @media (max-width:544px) {
   .ct-hero-nav { grid-template-columns:1fr; }
@@ -1090,7 +1046,7 @@ body { background: var(--ct-dark); }
   <div class="ct-hero-in">
     <div class="ct-hero-badge">🧠 Cultivation Technology</div>
     <h1>Smart Technology untuk<br><span>Rumah Burung Walet</span> Modern</h1>
-    <p class="ct-hero-desc">Dari AI camera yang menghitung populasi walet secara real-time, sistem suara yang bisa dikontrol via app, sampai disinfektan anti-jamur — semua teknologi yang Anda butuhkan untuk memaksimalkan produktivitas RBW, dalam satu ekosistem terintegrasi.</p>
+    <p class="ct-hero-desc">Dari AI camera yang menghitung populasi walet secara real-time, sampai sistem suara yang bisa dikontrol langsung via aplikasi — semua teknologi yang Anda butuhkan untuk memaksimalkan produktivitas RBW, dalam satu ekosistem terintegrasi.</p>
     <div class="ct-hero-ctas">
       <a href="#products" class="ct-btn-y">Lihat Produk Kami</a>
       <a href="https://wa.me/6285235350662" target="_blank" class="ct-btn-outline">Konsultasi Gratis</a>
@@ -1106,11 +1062,6 @@ body { background: var(--ct-dark); }
         <div class="ct-hero-nav-icon">🎵</div>
         <h4>Swara Hub</h4>
         <p>Smart Sound System</p>
-      </a>
-      <a href="#antijamur" class="ct-hero-nav-item ct-hero-nav-item-antijamur">
-        <div class="ct-hero-nav-icon">🧴</div>
-        <h4>Jamur X Super</h4>
-        <p>Disinfektan Premium</p>
       </a>
       <a href="#smart-rbw" class="ct-hero-nav-item ct-hero-nav-item-rbw">
         <div class="ct-hero-nav-icon">🏠</div>
@@ -1779,64 +1730,6 @@ body { background: var(--ct-dark); }
 </section>
 
 <!-- ═══════════════════════════════════
-     6. ANTI-JAMUR
-═══════════════════════════════════ -->
-<section class="ct-aj" id="antijamur">
-  <div class="ct-aj-in">
-    <div class="ct-reveal">
-      <div class="ct-aj-imgs">
-        <img class="ct-aj-main" src="/wp-content/uploads/nestcosystem/antijamur_1000ml.jpg" alt="Jamur X Super 1000ml" loading="lazy" onerror="this.src='/wp-content/uploads/nestcosystem/antijamur_1000ml.JPG'">
-        <img src="/wp-content/uploads/nestcosystem/antijamur_250ml.png" alt="Jamur X Super 250ml" loading="lazy" style="padding:16px;aspect-ratio:1;object-fit:contain;" onerror="this.style.display='none'">
-        <img src="/wp-content/uploads/nestcosystem/antijamur_1000ml.jpg" alt="Jamur X Super 1000ml" loading="lazy" style="padding:16px;aspect-ratio:1;object-fit:contain;" onerror="this.src='/wp-content/uploads/nestcosystem/antijamur_1000ml.JPG'">
-      </div>
-    </div>
-    <div class="ct-reveal ct-d1">
-      <div class="ct-lbl" style="color:var(--ct-green);">🧴 RBW Disinfectant</div>
-      <h2 class="ct-h2"><span style="color:var(--ct-green);">Jamur X Super</span> Markas Walet</h2>
-      <p class="ct-p">Disinfektan khusus rumah burung walet untuk mencegah dan mengatasi pertumbuhan jamur pada dinding, langit-langit, dan sirip RBW. Formula aman untuk walet, ampuh untuk jamur.</p>
-
-      <div class="ct-aj-benefits">
-        <div class="ct-aj-benefit">
-          <div class="ct-aj-benefit-icon">🛡️</div>
-          <h5>Aman untuk Walet</h5>
-          <p>Formula non-toxic, tidak mengganggu aktivitas walet di dalam RBW</p>
-        </div>
-        <div class="ct-aj-benefit">
-          <div class="ct-aj-benefit-icon">✨</div>
-          <h5>Ampuh untuk Jamur</h5>
-          <p>Terbukti efektif membasmi spora jamur penyebab bau dan penurunan kualitas sarang</p>
-        </div>
-        <div class="ct-aj-benefit">
-          <div class="ct-aj-benefit-icon">💧</div>
-          <h5>Mudah Diaplikasikan</h5>
-          <p>Semprot atau lap dengan kain basah, efek langsung terasa</p>
-        </div>
-        <div class="ct-aj-benefit">
-          <div class="ct-aj-benefit-icon">🔬</div>
-          <h5>Tested & Trusted</h5>
-          <p>Sudah dipakai oleh ratusan petani walet Markas Walet di 10 provinsi</p>
-        </div>
-      </div>
-
-      <div class="ct-aj-variants">
-        <div class="ct-aj-variant">
-          <span>Jamur X Super</span>
-          <span class="ct-aj-variant-size">250 ml</span>
-        </div>
-        <div class="ct-aj-variant">
-          <span>Jamur X Super</span>
-          <span class="ct-aj-variant-size">1000 ml</span>
-        </div>
-      </div>
-
-      <div style="margin-top:24px;">
-        <a href="https://wa.me/6285235350662?text=Hi%20Markaswalet%2C%20saya%20tertarik%20dengan%20Jamur%20X%20Super" target="_blank" class="ct-btn-y">Pesan Jamur X Super</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ═══════════════════════════════════
      7. PRICING GRID
 ═══════════════════════════════════ -->
 <section class="ct-pricing" id="products">
@@ -1890,25 +1783,6 @@ body { background: var(--ct-dark); }
       <a href="https://wa.me/6285235350662?text=Hi%20Markaswalet%2C%20saya%20tertarik%20dengan%20Swara%20Hub" target="_blank" class="ct-btn-y" style="align-self:stretch;justify-content:center;">Pesan Sekarang</a>
     </div>
 
-    <!-- Anti-Jamur -->
-    <div class="ct-pricing-card ct-reveal ct-d2">
-      <div class="ct-pricing-icon green">🧴</div>
-      <h3>Jamur X Super</h3>
-      <p class="ct-pricing-card-desc">Disinfektan premium, aman untuk walet, ampuh untuk jamur</p>
-      <div class="ct-pricing-price">
-        <span class="ct-pricing-currency">Mulai</span>
-        <span class="ct-pricing-num" style="font-size:1.8rem;">Hubungi</span>
-      </div>
-      <ul class="ct-pricing-features">
-        <li>Tersedia ukuran 250ml</li>
-        <li>Tersedia ukuran 1000ml</li>
-        <li>Formula aman untuk walet</li>
-        <li>Tidak meninggalkan bau tajam</li>
-        <li>Pengiriman seluruh Indonesia</li>
-        <li>Harga grosir untuk kemitraan</li>
-      </ul>
-      <a href="https://wa.me/6285235350662?text=Hi%20Markaswalet%2C%20saya%20tertarik%20dengan%20Jamur%20X%20Super" target="_blank" class="ct-btn-teal" style="align-self:stretch;justify-content:center;">Tanya Harga</a>
-    </div>
 
   </div>
 </section>
