@@ -5,12 +5,51 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Pre-Order MataWalet PRO — Early Bird 100 Orang Pertama | Markas Walet</title>
 <meta name="description" content="Pre-order MataWalet PRO — AI IoT Camera pertama di Indonesia untuk rumah burung walet. Harga khusus untuk 100 pemesan pertama. Real-time population counting, terhubung ke Markaswalet App.">
-<meta property="og:title" content="Pre-Order MataWalet PRO — 100 Orang Pertama">
-<meta property="og:description" content="AI IoT Camera pertama di Indonesia untuk RBW. Harga Early Bird khusus pre-order.">
-<meta property="og:image" content="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepan.jpeg">
+
+<!-- Open Graph — absolute URLs so preview works di WA/FB/LinkedIn -->
+<meta property="og:type" content="product">
+<meta property="og:title" content="Pre-Order MataWalet PRO — Early Bird 100 Orang Pertama">
+<meta property="og:description" content="AI IoT Camera pertama di Indonesia untuk rumah burung walet. Real-time population counting, terhubung ke Markaswalet App. Harga spesial untuk 100 pemesan pertama.">
+<meta property="og:image" content="https://markaswalet.com/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://markaswalet.com/lp_matawalet_pro/">
+<meta property="og:site_name" content="Markas Walet">
+<meta property="og:locale" content="id_ID">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pre-Order MataWalet PRO — Early Bird 100 Orang Pertama">
+<meta name="twitter:description" content="AI IoT Camera pertama di Indonesia untuk rumah burung walet.">
+<meta name="twitter:image" content="https://markaswalet.com/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://markaswalet.com/lp_matawalet_pro/">
+
+<!-- Product schema for rich snippet -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "MataWalet PRO — AI IoT Camera",
+  "image": "https://markaswalet.com/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg",
+  "description": "AI IoT Camera pertama di Indonesia untuk rumah burung walet. Real-time population counting, membedakan static vs motion, terhubung ke Markaswalet App.",
+  "brand": { "@type": "Brand", "name": "Markas Walet" },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://markaswalet.com/lp_matawalet_pro/",
+    "priceCurrency": "IDR",
+    "price": "1500000",
+    "availability": "https://schema.org/PreOrder",
+    "seller": { "@type": "Organization", "name": "PT Lentera Alam Nusantara" }
+  }
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap">
+
 <style>
 :root{
   --bg:#050a18;
@@ -44,7 +83,7 @@ img{max-width:100%;display:block;height:auto}
 .hero::before{content:"";position:absolute;inset:0;background-image:
   linear-gradient(rgba(96,180,255,.06) 1px, transparent 1px),
   linear-gradient(90deg, rgba(96,180,255,.06) 1px, transparent 1px);
-  background-size:48px 48px;mask-image:radial-gradient(ellipse at center, #000 40%, transparent 75%);pointer-events:none}
+  background-size:48px 48px;-webkit-mask-image:radial-gradient(ellipse at center, #000 40%, transparent 75%);mask-image:radial-gradient(ellipse at center, #000 40%, transparent 75%);pointer-events:none}
 .hero-in{display:grid;grid-template-columns:1.15fr 1fr;gap:58px;align-items:center;position:relative;z-index:2}
 .badge{display:inline-flex;align-items:center;gap:8px;padding:7px 14px;border-radius:999px;background:rgba(255,204,60,.12);border:1px solid rgba(255,204,60,.35);color:var(--accent);font-size:12.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;margin-bottom:18px}
 .badge .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 0 rgba(255,204,60,.8);animation:pulse 1.8s infinite}
@@ -56,7 +95,7 @@ img{max-width:100%;display:block;height:auto}
 .lead b{color:#fff}
 
 .cta-row{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:22px}
-.btn{display:inline-flex;align-items:center;gap:10px;padding:14px 24px;border-radius:999px;font-weight:700;font-size:15px;cursor:pointer;border:0;transition:transform .15s ease, box-shadow .2s ease}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:14px 24px;border-radius:999px;font-weight:700;font-size:15px;cursor:pointer;border:0;transition:transform .15s ease, box-shadow .2s ease;text-decoration:none}
 .btn-primary{background:linear-gradient(135deg,var(--accent) 0%,#ffa300 100%);color:#1a1200;box-shadow:0 10px 30px rgba(255,204,60,.25)}
 .btn-primary:hover{transform:translateY(-2px);box-shadow:0 14px 36px rgba(255,204,60,.35)}
 .btn-ghost{background:transparent;color:#fff;border:1px solid rgba(96,180,255,.4)}
@@ -71,7 +110,7 @@ img{max-width:100%;display:block;height:auto}
   border:1px solid var(--border);
   box-shadow:0 30px 80px rgba(0,0,0,.6), 0 0 0 1px rgba(96,180,255,.08) inset}
 .hero-vis img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.hero-vis .tag{position:absolute;top:18px;left:18px;padding:7px 12px;border-radius:999px;background:rgba(10,22,40,.8);border:1px solid rgba(96,180,255,.4);color:var(--blue);font-size:12px;font-weight:700;backdrop-filter:blur(10px)}
+.hero-vis .tag{position:absolute;top:18px;left:18px;padding:7px 12px;border-radius:999px;background:rgba(10,22,40,.8);border:1px solid rgba(96,180,255,.4);color:var(--blue);font-size:12px;font-weight:700;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
 .hero-vis .tag.r{left:auto;right:18px;background:rgba(255,60,60,.15);color:#ff9a9a;border-color:rgba(255,60,60,.35)}
 .hero-vis .tag .d{display:inline-block;width:8px;height:8px;background:#ff4d4d;border-radius:50%;margin-right:6px;animation:pulse2 1.6s infinite}
 @keyframes pulse2{50%{opacity:.35}}
@@ -79,12 +118,18 @@ img{max-width:100%;display:block;height:auto}
 /* ===== SLOT COUNTER ===== */
 .slot{margin-top:-30px;position:relative;z-index:3}
 .slot-card{background:linear-gradient(135deg,#0b1d3d 0%,#122a54 100%);border:1px solid var(--border);border-radius:var(--radius);padding:22px 26px;display:grid;grid-template-columns:auto 1fr auto;gap:22px;align-items:center;box-shadow:0 18px 50px rgba(0,0,0,.4)}
-.slot-num{font-family:'JetBrains Mono',monospace;font-size:44px;font-weight:800;color:var(--accent);line-height:1}
-.slot-num small{font-size:18px;color:var(--muted);font-weight:500}
+.slot-icon{width:54px;height:54px;border-radius:13px;background:linear-gradient(135deg,rgba(255,204,60,.22),rgba(255,163,0,.1));display:flex;align-items:center;justify-content:center;font-size:26px}
 .slot-label{color:#fff;font-weight:600;font-size:15.5px}
 .slot-label span{display:block;color:var(--muted);font-weight:400;font-size:13px;margin-top:3px}
-.bar-prog{grid-column:1/-1;height:8px;background:rgba(255,255,255,.06);border-radius:999px;overflow:hidden}
-.bar-prog > i{display:block;height:100%;width:27%;background:linear-gradient(90deg,var(--accent) 0%,#ff8a00 100%);border-radius:999px}
+.slot-label b{color:var(--accent)}
+
+/* ===== PRODUCT GALLERY (new) ===== */
+.gallery{padding:72px 0 40px}
+.gal-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:32px}
+.gal-item{aspect-ratio:1;border-radius:14px;overflow:hidden;background:var(--card);border:1px solid var(--border);position:relative;transition:transform .25s ease, border-color .25s ease;cursor:zoom-in}
+.gal-item:hover{transform:translateY(-4px);border-color:rgba(96,180,255,.45)}
+.gal-item img{width:100%;height:100%;object-fit:cover}
+.gal-item .cap{position:absolute;left:0;right:0;bottom:0;padding:18px 14px 10px;font-size:12px;font-weight:600;color:#fff;background:linear-gradient(to top, rgba(5,10,24,.9), transparent);letter-spacing:.3px}
 
 /* ===== SECTION BASE ===== */
 section{padding:80px 0;position:relative}
@@ -105,7 +150,6 @@ section{padding:80px 0;position:relative}
 .offer{background:linear-gradient(140deg,#0a1933 0%,#102648 55%,#1c3a6e 100%);border:1px solid rgba(255,204,60,.25);border-radius:20px;padding:44px;display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center;position:relative;overflow:hidden}
 .offer::before{content:"";position:absolute;inset:-1px;border-radius:inherit;padding:1px;background:linear-gradient(135deg,rgba(255,204,60,.6),rgba(96,180,255,.2),rgba(255,204,60,.6));-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
 .price-row{display:flex;align-items:baseline;gap:14px;margin:14px 0 6px;flex-wrap:wrap}
-.price-strike{font-size:20px;color:var(--muted);text-decoration:line-through}
 .price-now{font-size:48px;font-weight:800;color:var(--accent);line-height:1}
 .price-now small{font-size:18px;color:#cfe0ff;font-weight:500}
 .save{display:inline-block;background:rgba(82,210,130,.15);color:#7fe3a5;padding:4px 12px;border-radius:999px;font-size:12.5px;font-weight:700;border:1px solid rgba(82,210,130,.3);margin-bottom:14px}
@@ -113,7 +157,7 @@ section{padding:80px 0;position:relative}
 .bullets li{padding:7px 0;padding-left:28px;position:relative;color:#dce8fa;font-size:15px}
 .bullets li::before{content:"✓";position:absolute;left:0;top:7px;width:20px;height:20px;background:rgba(82,210,130,.15);color:#7fe3a5;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:12px}
 
-.offer-card{background:rgba(5,10,24,.55);border:1px solid var(--border);border-radius:14px;padding:26px;backdrop-filter:blur(12px)}
+.offer-card{background:rgba(5,10,24,.55);border:1px solid var(--border);border-radius:14px;padding:26px;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
 .count-wrap{text-align:center;margin-bottom:20px}
 .count-wrap h5{font-size:13px;color:var(--muted);font-weight:600;letter-spacing:1px;text-transform:uppercase;margin-bottom:10px}
 .timer{display:flex;gap:8px;justify-content:center}
@@ -148,9 +192,15 @@ footer{background:#030712;padding:28px 0;text-align:center;color:var(--muted);fo
 footer a{color:var(--blue)}
 
 /* ===== STICKY BUY ===== */
-.sticky{position:fixed;left:0;right:0;bottom:0;background:rgba(10,16,34,.94);backdrop-filter:blur(14px);border-top:1px solid var(--border);padding:12px 18px;z-index:100;display:none;align-items:center;justify-content:space-between;gap:14px}
+.sticky{position:fixed;left:0;right:0;bottom:0;background:rgba(10,16,34,.94);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border-top:1px solid var(--border);padding:12px 18px;z-index:100;display:none;align-items:center;justify-content:space-between;gap:14px}
 .sticky .p{font-size:13px;color:#cfe0ff}
 .sticky .p b{color:var(--accent);font-size:16px;display:block}
+
+/* ===== LIGHTBOX ===== */
+.lightbox{position:fixed;inset:0;background:rgba(3,7,18,.92);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:200;display:none;align-items:center;justify-content:center;padding:20px}
+.lightbox.open{display:flex}
+.lightbox img{max-width:92vw;max-height:88vh;border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.7)}
+.lightbox .close{position:absolute;top:20px;right:24px;color:#fff;font-size:32px;cursor:pointer;line-height:1;background:rgba(10,22,40,.65);border:1px solid var(--border);width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center}
 
 /* ===== RESPONSIVE ===== */
 @media (max-width:900px){
@@ -159,11 +209,12 @@ footer a{color:var(--blue)}
   .grid-3{grid-template-columns:1fr}
   .offer{grid-template-columns:1fr;padding:30px 24px}
   .steps{grid-template-columns:repeat(2,1fr)}
-  .slot-card{grid-template-columns:1fr;text-align:center}
-  .slot-num{font-size:38px}
+  .slot-card{grid-template-columns:1fr;text-align:center;gap:14px}
+  .gal-grid{grid-template-columns:repeat(2,1fr)}
   .sticky{display:flex}
   section{padding:58px 0}
   .hero{padding:48px 0 40px}
+  .gallery{padding:58px 0 30px}
 }
 @media (max-width:520px){
   .steps{grid-template-columns:1fr}
@@ -185,7 +236,7 @@ footer a{color:var(--blue)}
       <p class="lead">Kamera AI pertama di Indonesia yang menghitung populasi burung walet <b>secara real-time</b>, membedakan static vs motion dengan confidence score, dan terhubung langsung ke aplikasi Markaswalet. Pantau RBW Anda dari mana saja, 24/7.</p>
 
       <div class="cta-row">
-        <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO%20(100%20orang%20pertama)" target="_blank" class="btn btn-primary">🎯 Ambil Slot Pre-Order</a>
+        <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO%20(100%20orang%20pertama)" target="_blank" rel="noopener" class="btn btn-primary">🎯 Ambil Slot Pre-Order</a>
         <a href="#fitur" class="btn btn-ghost">Lihat Fitur →</a>
       </div>
 
@@ -199,20 +250,49 @@ footer a{color:var(--blue)}
     <div class="hero-vis">
       <div class="tag">📡 AI Camera</div>
       <div class="tag r"><span class="d"></span>LIVE</div>
-      <img src="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepan.jpeg" alt="MataWalet PRO" onerror="this.src='/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg'">
+      <img src="/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg" alt="MataWalet PRO — AI IoT Camera untuk Rumah Burung Walet">
     </div>
   </div>
 </header>
 
-<!-- ============= SLOT COUNTER ============= -->
+<!-- ============= SLOT COUNTER (date-based, tidak manual update) ============= -->
 <div class="wrap slot">
   <div class="slot-card">
-    <div class="slot-num">27<small>/100</small></div>
-    <div class="slot-label">Slot pre-order sudah terisi<span>Sisa <b id="slotLeft" style="color:#fff">73 slot</b> — first come, first served.</span></div>
-    <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO" target="_blank" class="btn btn-primary">Amankan Slot</a>
-    <div class="bar-prog"><i></i></div>
+    <div class="slot-icon">🔥</div>
+    <div class="slot-label">Pre-Order Early Bird dibuka sampai <b>10 Mei 2026</b>
+      <span>Atau sampai slot 100 unit terisi — mana yang lebih cepat. First come, first served.</span>
+    </div>
+    <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO" target="_blank" rel="noopener" class="btn btn-primary">Amankan Slot</a>
   </div>
 </div>
+
+<!-- ============= PRODUCT GALLERY ============= -->
+<section class="gallery">
+  <div class="wrap">
+    <div class="sec-lbl">Product Gallery</div>
+    <h2 class="sec-h">Lihat lebih dekat <em>MataWalet PRO</em>.</h2>
+    <p class="sec-p">Dirancang compact — mudah dipasang di plafon atau dinding RBW, tanpa mengganggu walet.</p>
+
+    <div class="gal-grid">
+      <div class="gal-item" data-img="/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg">
+        <img src="/wp-content/uploads/nestcosystem/packaging_matawalet_pro.jpeg" alt="MataWalet PRO dalam kemasan" loading="lazy">
+        <div class="cap">Kemasan Produk</div>
+      </div>
+      <div class="gal-item" data-img="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepanatas.jpeg">
+        <img src="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepanatas.jpeg" alt="Tampak depan atas" loading="lazy">
+        <div class="cap">Tampak Depan Atas</div>
+      </div>
+      <div class="gal-item" data-img="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepan_samping.jpeg">
+        <img src="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepan_samping.jpeg" alt="Tampak depan samping" loading="lazy">
+        <div class="cap">Tampak Samping</div>
+      </div>
+      <div class="gal-item" data-img="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepan.jpeg">
+        <img src="/wp-content/uploads/nestcosystem/matawaletpro_tampakdepan.jpeg" alt="Tampak depan" loading="lazy">
+        <div class="cap">Detail Lensa</div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- ============= FITUR ============= -->
 <section id="fitur">
@@ -262,13 +342,12 @@ footer a{color:var(--blue)}
     <div class="offer">
       <div>
         <div class="sec-lbl" style="color:var(--accent)">🎁 Penawaran Pre-Order</div>
-        <h2 class="sec-h" style="margin-bottom:6px">Harga Early Bird — <em>hemat Rp 300.000</em></h2>
-        <span class="save">HEMAT 20% · khusus 100 pemesan pertama</span>
+        <h2 class="sec-h" style="margin-bottom:6px">Harga Pre-Order Early Bird</h2>
+        <span class="save">Khusus 100 pemesan pertama · Bonus lengkap</span>
         <div class="price-row">
-          <span class="price-strike">Rp 1.500.000</span>
-          <span class="price-now">Rp 1.200.000<small> / unit</small></span>
+          <span class="price-now">Rp 1.500.000<small> / unit</small></span>
         </div>
-        <p class="sec-p" style="margin-bottom:8px">Pengiriman batch pertama dijadwalkan 4–6 minggu setelah pre-order ditutup.</p>
+        <p class="sec-p" style="margin-bottom:8px">Harga resmi produk. Pengiriman batch pertama dijadwalkan 4–6 minggu setelah pre-order ditutup.</p>
 
         <ul class="bullets">
           <li>1 unit MataWalet PRO AI IoT Camera</li>
@@ -279,7 +358,7 @@ footer a{color:var(--blue)}
           <li>Prioritas support teknis grup Early Adopter</li>
         </ul>
 
-        <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO%20(100%20orang%20pertama)" target="_blank" class="btn btn-primary">🎯 Pesan via WhatsApp</a>
+        <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO%20(100%20orang%20pertama)" target="_blank" rel="noopener" class="btn btn-primary">🎯 Pesan via WhatsApp</a>
       </div>
 
       <div class="offer-card">
@@ -293,7 +372,7 @@ footer a{color:var(--blue)}
           </div>
         </div>
         <div style="border-top:1px solid var(--border);padding-top:18px">
-          <p style="font-size:13.5px;color:var(--muted);text-align:center;line-height:1.7">Setelah 100 slot terisi atau hitungan mundur berakhir, harga kembali normal Rp 1.500.000 dan pengiriman masuk batch berikutnya.</p>
+          <p style="font-size:13.5px;color:var(--muted);text-align:center;line-height:1.7">Setelah masa pre-order berakhir, pengiriman masuk batch berikutnya. Bonus Early Adopter hanya untuk 100 slot pertama.</p>
         </div>
       </div>
     </div>
@@ -325,12 +404,12 @@ footer a{color:var(--blue)}
 
     <div class="faq">
       <details open>
-        <summary>Apa saja yang saya dapat dengan harga pre-order?</summary>
+        <summary>Apa saja yang saya dapat dengan pre-order?</summary>
         <p>1 unit MataWalet PRO, akses lifetime Markaswalet App, garansi 1 tahun, gratis ongkir seluruh Indonesia, serta bonus remote setup dan training 1-on-1 senilai Rp 500.000. Anda juga masuk grup prioritas Early Adopter untuk support.</p>
       </details>
       <details>
         <summary>Kapan unit dikirim?</summary>
-        <p>Batch pertama dikirim 4–6 minggu setelah masa pre-order ditutup (100 slot terisi atau countdown berakhir). Anda akan menerima nomor resi via WhatsApp.</p>
+        <p>Batch pertama dikirim 4–6 minggu setelah masa pre-order ditutup (tanggal 10 Mei 2026 atau saat 100 slot terisi — mana yang lebih cepat). Anda akan menerima nomor resi via WhatsApp.</p>
       </details>
       <details>
         <summary>Apakah butuh internet di RBW?</summary>
@@ -346,7 +425,7 @@ footer a{color:var(--blue)}
       </details>
       <details>
         <summary>Bagaimana jika slot 100 sudah penuh?</summary>
-        <p>Anda akan masuk waiting list batch berikutnya dengan harga normal Rp 1.500.000. Tim kami akan menginformasikan begitu jadwal batch baru dibuka.</p>
+        <p>Anda akan masuk waiting list batch berikutnya. Tim kami akan menginformasikan begitu jadwal batch baru dibuka. Perhatikan: bonus Early Adopter (training 1-on-1, grup prioritas) hanya untuk 100 slot pertama.</p>
       </details>
     </div>
   </div>
@@ -356,8 +435,8 @@ footer a{color:var(--blue)}
 <section class="final">
   <div class="wrap">
     <h2>Jadilah satu dari 100 Early Adopter MataWalet PRO.</h2>
-    <p>Harga khusus, bonus eksklusif, dan prioritas support. Slot terbatas — first come, first served.</p>
-    <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO%20(100%20orang%20pertama)" target="_blank" class="btn btn-primary">🎯 Ambil Slot Pre-Order Sekarang</a>
+    <p>Harga resmi, bonus eksklusif, dan prioritas support. Slot terbatas — first come, first served.</p>
+    <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO%20(100%20orang%20pertama)" target="_blank" rel="noopener" class="btn btn-primary">🎯 Ambil Slot Pre-Order Sekarang</a>
   </div>
 </section>
 
@@ -369,26 +448,44 @@ footer a{color:var(--blue)}
 
 <!-- Sticky mobile CTA -->
 <div class="sticky">
-  <div class="p">MataWalet PRO<b>Rp 1.200.000 <span style="text-decoration:line-through;color:var(--muted);font-size:12px;font-weight:400">Rp 1.500.000</span></b></div>
-  <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO" target="_blank" class="btn btn-primary" style="padding:11px 18px">Pre-Order</a>
+  <div class="p">MataWalet PRO<b>Rp 1.500.000 / unit</b></div>
+  <a href="https://wa.me/6285235350662?text=Halo%20Markaswalet%2C%20saya%20ingin%20ikut%20Pre-Order%20MataWalet%20PRO" target="_blank" rel="noopener" class="btn btn-primary" style="padding:11px 18px">Pre-Order</a>
+</div>
+
+<!-- Lightbox for gallery -->
+<div class="lightbox" id="lightbox" role="dialog" aria-label="Preview foto produk">
+  <div class="close" id="lbClose">&times;</div>
+  <img id="lbImg" src="" alt="">
 </div>
 
 <script>
-// Countdown — default 14 hari dari hari ini; ganti targetDate manual bila perlu.
+// ===== Countdown — tanggal fix, sama untuk semua pengunjung =====
 (function(){
-  var stored = localStorage.getItem('mwpro_po_end');
-  var end;
-  if(stored){ end = new Date(parseInt(stored,10)); }
-  else { end = new Date(Date.now() + 14*24*60*60*1000); localStorage.setItem('mwpro_po_end', end.getTime()); }
-
+  // Target: 10 Mei 2026, 23:59:59 WIB (UTC+7)
+  var end = new Date('2026-05-10T23:59:59+07:00').getTime();
   var d=document.getElementById('d'),h=document.getElementById('h'),m=document.getElementById('m'),s=document.getElementById('s');
   function tick(){
-    var diff = end - new Date();
+    var diff = end - Date.now();
     if(diff<=0){ d.textContent=h.textContent=m.textContent=s.textContent='00'; return; }
     var dd=Math.floor(diff/86400000), hh=Math.floor(diff%86400000/3600000), mm=Math.floor(diff%3600000/60000), ss=Math.floor(diff%60000/1000);
     d.textContent=String(dd).padStart(2,'0'); h.textContent=String(hh).padStart(2,'0'); m.textContent=String(mm).padStart(2,'0'); s.textContent=String(ss).padStart(2,'0');
   }
   tick(); setInterval(tick,1000);
+})();
+
+// ===== Gallery Lightbox =====
+(function(){
+  var lb=document.getElementById('lightbox'),img=document.getElementById('lbImg'),cls=document.getElementById('lbClose');
+  document.querySelectorAll('.gal-item').forEach(function(el){
+    el.addEventListener('click',function(){
+      var src=el.getAttribute('data-img');
+      if(src){ img.src=src; lb.classList.add('open'); document.body.style.overflow='hidden'; }
+    });
+  });
+  function close(){ lb.classList.remove('open'); document.body.style.overflow=''; img.src=''; }
+  cls.addEventListener('click',close);
+  lb.addEventListener('click',function(e){ if(e.target===lb) close(); });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
 })();
 </script>
 
